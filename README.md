@@ -2,6 +2,7 @@
 Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 
 ### Contents
+Although GNN pretraining often involves self-supervised learning, here we still classify them into pretraining and self-supervised learning.
 * [1. GNN Pretraining](#1-gnn-pretraining)
 * [2. GNN Self-Supervised learning](#2-gnn-self-supervised-learning)
 
@@ -22,6 +23,8 @@ Papers about pretraining and self-supervised learning on Graph Neural Networks (
   *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* IJCAI 2019. [[paper]](https://arxiv.org/abs/1906.00346)
 
 ## 2. GNN Self Supervised learning
+1. **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.**
+ *Michihiro Yasunaga, Percy Liang.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2005.10636)
 1. **Self-Supervised Graph Representation Learning via Global Context Prediction.** 
   *Zhen Peng, Yixiang Dong, Minnan Luo, Xiao-Ming Wu, Qinghua Zheng.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2003.01604)
 1. **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.**
