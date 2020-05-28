@@ -23,6 +23,7 @@ Although GNN pretraining often involves self-supervised learning, here we still 
   *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* IJCAI 2019. [[paper]](https://arxiv.org/abs/1906.00346)
 
 ## 2. GNN Self Supervised learning
+1. 2020 WWW. **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380214)
 1. **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.**
  *Michihiro Yasunaga, Percy Liang.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2005.10636)
 1. **Self-Supervised Graph Representation Learning via Global Context Prediction.** 
