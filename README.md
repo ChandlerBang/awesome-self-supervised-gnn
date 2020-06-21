@@ -35,7 +35,7 @@ Although GNN pretraining and some unsupervised learning methods often involve se
 1. **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** 
   *Jiawei Zhang, Haopeng Zhang, Congying Xia, Li Sun*. Arxiv 2020. [[paper]](https://arxiv.org/abs/2001.05140)
 1. **Strategies for Pre-training Graph Neural Networks.**
-  *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec.* ICLR 2020. [[paper]](https://arxiv.org/abs/1905.12265)
+  *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec.* ICLR 2020. [[paper]](https://arxiv.org/abs/1905.12265) [[code]](https://github.com/snap-stanford/pretrain-gnns)
 1. **Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference.**
   *Lukas Galke, Iacopo Vagliano, Ansgar Scherp.* ICLR workshop 2019. [[paper]](https://arxiv.org/abs/1905.06018)
 1. **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.**
