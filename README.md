@@ -74,7 +74,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 ## 3. Other Related Papers (implicitly using self-supersvied learning)
 1. **Structural Deep Clustering Network.** 
-   *Deyu Bo, Xiao Wang, Chuan Shi, Meiqi Zhu, Emiao Lu, Peng Cui.* WWW 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380214)
+   *Deyu Bo, Xiao Wang, Chuan Shi, Meiqi Zhu, Emiao Lu, Peng Cui.* WWW 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380214) [[code]](https://github.com/bdy9527/SDCN)
 1. **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.**
  *Michihiro Yasunaga, Percy Liang.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2005.10636)
 1. **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.**
