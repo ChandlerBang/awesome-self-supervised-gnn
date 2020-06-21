@@ -20,7 +20,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [KDD 2019 Workshop] **SGR: Self-Supervised Spectral Graph Representation Learning.** [[paper]](https://arxiv.org/abs/1811.06237)
 
 
-## 2. GNN Pretraining
+## 2. GNN Pre-training
 1. [KDD 2020] **Graph Contrastive Coding for Structural Graph Representation Pre-Training.** 
 1. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks.** [[abstract]](http://web.cs.ucla.edu/~kwchang/bibliography/hu2020gptgnn/)
 1. [Arxiv 2020] **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** [[paper]](https://arxiv.org/abs/2001.05140) [[code]](https://github.com/anonymous-sourcecode/Graph-Bert)
