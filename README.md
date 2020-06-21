@@ -30,7 +30,8 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
 
 ## 3. Other Related Papers (implicitly using self-supersvied learning)
-1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380214) [[code]](https://github.com/bdy9527/SDCN)
+1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
+) [[code]](https://github.com/bdy9527/SDCN)
 1. [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
 1. [ICLR 2019] **Deep Graph Informax.** [[paper]](https://arxiv.org/abs/1809.10341) [[code]](https://github.com/PetarV-/DGI)
 
