@@ -23,8 +23,8 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 ## 2. GNN Pretraining
 1. [KDD 2020] **Graph Contrastive Coding for Structural Graph Representation Pre-Training.** 
 1. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks.** [[abstract]](http://web.cs.ucla.edu/~kwchang/bibliography/hu2020gptgnn/)
-1. [Arxiv 2020] **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** [[paper]](https://arxiv.org/abs/2001.05140)
-1. [Arxiv 2020] **Strategies for Pre-training Graph Neural Networks.** [[paper]](https://arxiv.org/abs/1905.12265) [[code]](https://github.com/snap-stanford/pretrain-gnns)
+1. [Arxiv 2020] **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** [[paper]](https://arxiv.org/abs/2001.05140) [[code]](https://github.com/anonymous-sourcecode/Graph-Bert)
+1. [ICLR 2020] **Strategies for Pre-training Graph Neural Networks.** [[paper]](https://arxiv.org/abs/1905.12265) [[code]](https://github.com/snap-stanford/pretrain-gnns)
 1. [ICLR 2019 Workshop] **Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference.** [[paper]](https://arxiv.org/abs/1905.06018)
 1. [ICLR 2019 workshop] **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.** [[paper]](https://arxiv.org/abs/1905.13728)
 1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346)
