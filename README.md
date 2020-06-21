@@ -2,8 +2,8 @@
 Papers about self-supervised learning on Graph Neural Networks (GNN).
 
 ### Contributors
-* [Yuning You](https://yyou1996.github.io/)
 * [Wei Jin](http://cse.msu.edu/~jinwei2/)
+* [Yuning You](https://yyou1996.github.io/)
 
 ### Contents
 Since GNN pretraining and some unsupervised methods often involve self-supervised learning, here we also include them in this repository.
