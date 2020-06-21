@@ -50,6 +50,6 @@ Although GNN pretraining and some unsupervised learning methods often involve se
 1. **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.**
  *Michihiro Yasunaga, Percy Liang.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2005.10636)
 1. **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.**
-  *Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang.* ICLR 2020. [[paper]](https://arxiv.org/abs/1908.01000)
+  *Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang.* ICLR 2020. [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
 1. **Deep Graph Informax.** 
   *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [[paper]](https://arxiv.org/abs/1809.10341)
