@@ -15,7 +15,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [Arxiv 2020] **Self-supervised Learning on Graphs: Deep Insights and New Direction.** [[paper]](https://arxiv.org/abs/2006.10141) [[code]](https://github.com/ChandlerBang/SelfTask-GNN)
 1. [ICML 2020] **When Does Self-Supervision Help Graph Convolutional Networks?** [[paper]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs)
 1. [Arxiv 2020] **Self-supervised Training of Graph Convolutional Networks.** [[paper]](https://arxiv.org/abs/2006.02380)
-1. [Arxiv 2020]**Self-Supervised Graph Representation Learning via Global Context Prediction.** [[paper]](https://arxiv.org/abs/2003.01604)
+1. [Arxiv 2020] **Self-Supervised Graph Representation Learning via Global Context Prediction.** [[paper]](https://arxiv.org/abs/2003.01604)
 1. [AAAI 2020] **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.** [[paper]](https://arxiv.org/abs/1902.11038)
 1. [KDD 2019 Workshop] **SGR: Self-Supervised Spectral Graph Representation Learning.** [[paper]](https://arxiv.org/abs/1811.06237)
 
