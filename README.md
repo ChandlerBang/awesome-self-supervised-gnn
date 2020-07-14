@@ -9,10 +9,10 @@ Papers about self-supervised learning on Graph Neural Networks (GNN).
 Since GNN pretraining and some unsupervised methods often involve self-supervised learning, here we also include them in this repository.
 * [1. GNN Self-Supervised learning](#1-gnn-self-supervised-learning)
 * [2. GNN Pretraining](#2-gnn-pretraining)
-* [3. Other Related Papers (implicitly using self-supersvied learning)](#3-other-related-papers-(implicitly-using-self-supersvied-learning))
+* [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 
 ## 1. GNN Self Supervised Learning
-1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/1971-Paper.pdf)
+1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://arxiv.org/abs/2006.05582)
 1. [Arxiv 2020] **Self-supervised Learning on Graphs: Deep Insights and New Direction.** [[paper]](https://arxiv.org/abs/2006.10141) [[code]](https://github.com/ChandlerBang/SelfTask-GNN)
 1. [ICML 2020] **When Does Self-Supervision Help Graph Convolutional Networks?** [[paper]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs)
 1. [Arxiv 2020] **Self-supervised Training of Graph Convolutional Networks.** [[paper]](https://arxiv.org/abs/2006.02380)
@@ -30,16 +30,16 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [ICLR 2019 workshop] **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.** [[paper]](https://arxiv.org/abs/1905.13728)
 1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
 
-## 3. Other Related Papers (implicitly using self-supersvied learning)
-1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://arxiv.org/abs/2006.05582)
+## 3. Other Related Papers
+ (implicitly using self-supersvied learning or applying graph neural networks in other domains)
+1. [ICML 2020] **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.** [[paper]](https://arxiv.org/abs/2005.10636)
 1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
 ) [[code]](https://github.com/bdy9527/SDCN)
 1. [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
 1. [ICLR 2019] **Deep Graph Informax.** [[paper]](https://arxiv.org/abs/1809.10341) [[code]](https://github.com/PetarV-/DGI)
 
-<!--
-1. [Arxiv 2020] **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.** [[paper]](https://arxiv.org/abs/2005.10636)
--->
+
+
 
 
 <!---
