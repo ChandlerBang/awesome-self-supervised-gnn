@@ -12,6 +12,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 * [3. Other Related Papers (implicitly using self-supersvied learning)](#3-other-related-papers-(implicitly-using-self-supersvied-learning))
 
 ## 1. GNN Self Supervised Learning
+1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/1971-Paper.pdf)
 1. [Arxiv 2020] **Self-supervised Learning on Graphs: Deep Insights and New Direction.** [[paper]](https://arxiv.org/abs/2006.10141) [[code]](https://github.com/ChandlerBang/SelfTask-GNN)
 1. [ICML 2020] **When Does Self-Supervision Help Graph Convolutional Networks?** [[paper]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs)
 1. [Arxiv 2020] **Self-supervised Training of Graph Convolutional Networks.** [[paper]](https://arxiv.org/abs/2006.02380)
