@@ -32,8 +32,8 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 ## 3. Other Related Papers
  (implicitly using self-supersvied learning or applying graph neural networks in other domains)
-1. [KDD 2020] **Octet: Online Catalog Taxonomy Enrichment with Self-Supervision.** [[paper]](https://arxiv.org/pdf/2006.10276.pdf)
 1. [ICML 2020] **Graph-based, Self-Supervised Program Repair from Diagnostic Feedback.** [[paper]](https://arxiv.org/abs/2005.10636)
+1. [KDD 2020] **Octet: Online Catalog Taxonomy Enrichment with Self-Supervision.** [[paper]](https://arxiv.org/pdf/2006.10276.pdf)
 1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
 ) [[code]](https://github.com/bdy9527/SDCN)
 1. [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
