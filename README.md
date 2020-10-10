@@ -1,10 +1,6 @@
 # awesome-self-supervised-gnn
 Papers about self-supervised learning on Graph Neural Networks (GNN).
 
-### Contributors
-* [Wei Jin](http://cse.msu.edu/~jinwei2/)
-* [Yuning You](https://yyou1996.github.io/)
-
 ### Contents
 Since GNN pretraining and some unsupervised methods often involve self-supervised learning, here we also include them in this repository.
 * [1. GNN Self-Supervised learning](#1-gnn-self-supervised-learning)
@@ -12,6 +8,9 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 * [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 
 ## 1. GNN Self Supervised Learning
+1. [Openreview 2020] **Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks** [[paper]](https://openreview.net/forum?id=hnJSgY7p33a)
+1. [Openreview 2020] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
+1. [Openreview 2020] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://openreview.net/forum?id=DAaaaqPv9-q)
 1. [Arxiv 2020] **Self-supervised Learning on Graphs: Deep Insights and New Direction.** [[paper]](https://arxiv.org/abs/2006.10141) [[code]](https://github.com/ChandlerBang/SelfTask-GNN)
 1. [ICML 2020] **When Does Self-Supervision Help Graph Convolutional Networks?** [[paper]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs)
 1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://arxiv.org/abs/2006.05582)
@@ -57,6 +56,9 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
   *Ke Sun, Zhouchen Lin, Zhanxing Zhu.* AAAI 2020. [[paper]](https://arxiv.org/abs/1902.11038)
 1. **SGR: Self-Supervised Spectral Graph Representation Learning.**
   *Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, Emmanuel Müller*. KDD workshop 2019. [[paper]](https://arxiv.org/abs/1811.06237)
+### Contributors
+* [Wei Jin](http://cse.msu.edu/~jinwei2/)
+* [Yuning You](https://yyou1996.github.io/)
 
 
 ## 2. GNN Pretraining
