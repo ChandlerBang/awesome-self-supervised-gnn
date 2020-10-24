@@ -8,6 +8,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 * [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 
 ## 1. GNN Self Supervised Learning
+1. [NeurIPS 2020] **Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs.**
 1. [Openreview 2020] **Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks** [[paper]](https://openreview.net/forum?id=hnJSgY7p33a)
 1. [Openreview 2020] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
 1. [Openreview 2020] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://openreview.net/forum?id=DAaaaqPv9-q)
@@ -21,6 +22,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 
 ## 2. GNN Pre-Training
+1. [NeurIPS 2020] **Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations.**
 1. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks.** [[pdf]](https://arxiv.org/abs/2006.15437) [[code]](https://github.com/acbull/GPT-GNN)
 1. [KDD 2020] **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.** [[pdf]](https://arxiv.org/abs/2006.09963) [[code]](https://github.com/THUDM/GCC) 
 1. [Arxiv 2020] **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** [[paper]](https://arxiv.org/abs/2001.05140) [[code]](https://github.com/anonymous-sourcecode/Graph-Bert)
