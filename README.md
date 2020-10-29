@@ -4,7 +4,7 @@ Papers about self-supervised learning on Graph Neural Networks (GNN).
 ### Contents
 Since GNN pretraining and some unsupervised methods often involve self-supervised learning, here we also include them in this repository.
 * [1. GNN Self-Supervised learning](#1-gnn-self-supervised-learning)
-* [2. GNN Pretraining](#2-gnn-pretraining)
+* [2. GNN Pretraining](#2-gnn-pre-training)
 * [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 
 ## 1. GNN Self Supervised Learning
@@ -76,8 +76,6 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
   *Lukas Galke, Iacopo Vagliano, Ansgar Scherp.* ICLR workshop 2019. [[paper]](https://arxiv.org/abs/1905.06018)
 1. **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.**
   *Ziniu Hu, Changjun Fan, Ting Chen, Kai-Wei Chang, Yizhou Sun* ICLR workshop 2019. [[paper]](https://arxiv.org/abs/1905.13728)
-1. **Pre-training of Graph Augmented Transformers for Medication Recommendation.** 
-  *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* IJCAI 2019. [[paper]](https://arxiv.org/abs/1906.00346)
 
 
 ## 3. Other Related Papers
@@ -89,4 +87,6 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
   *Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang.* ICLR 2020. [[paper]](https://arxiv.org/abs/1908.01000)
 1. **Deep Graph Informax.** 
   *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [[paper]](https://arxiv.org/abs/1809.10341)
+1. **Pre-training of Graph Augmented Transformers for Medication Recommendation.** 
+  *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* IJCAI 2019. [[paper]](https://arxiv.org/abs/1906.00346)
 -->
