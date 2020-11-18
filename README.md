@@ -26,22 +26,24 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs.** [[paper]](https://arxiv.org/abs/2006.05582) [[code]](https://github.com/kavehhassani/mvgrl)
 1. [Arxiv 2020] **Self-supervised Training of Graph Convolutional Networks.** [[paper]](https://arxiv.org/abs/2006.02380)
 1. [Arxiv 2020] **Self-Supervised Graph Representation Learning via Global Context Prediction.** [[paper]](https://arxiv.org/abs/2003.01604)
-1. [AAAI 2020] **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.** [[paper]](https://arxiv.org/abs/1902.11038)
-1. [KDD 2019 Workshop] **SGR: Self-Supervised Spectral Graph Representation Learning.** [[paper]](https://arxiv.org/abs/1811.06237)
 1. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks.** [[pdf]](https://arxiv.org/abs/2006.15437) [[code]](https://github.com/acbull/GPT-GNN)
 1. [KDD 2020] **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.** [[pdf]](https://arxiv.org/abs/2006.09963) [[code]](https://github.com/THUDM/GCC) 
 1. [Arxiv 2020] **Graph-Bert: Only Attention is Needed for Learning Graph Representations.** [[paper]](https://arxiv.org/abs/2001.05140) [[code]](https://github.com/anonymous-sourcecode/Graph-Bert)
 1. [ICLR 2020] **Strategies for Pre-training Graph Neural Networks.** [[paper]](https://arxiv.org/abs/1905.12265) [[code]](https://github.com/snap-stanford/pretrain-gnns)
+1. [AAAI 2020] **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.** [[paper]](https://arxiv.org/abs/1902.11038)
+1. [KDD 2019 Workshop] **SGR: Self-Supervised Spectral Graph Representation Learning.** [[paper]](https://arxiv.org/abs/1811.06237)
 1. [ICLR 2019 Workshop] **Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference.** [[paper]](https://arxiv.org/abs/1905.06018)
 1. [ICLR 2019 workshop] **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.** [[paper]](https://arxiv.org/abs/1905.13728)
-1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
+
+
+## Other related papers
  (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 1. [KDD 2020] **Octet: Online Catalog Taxonomy Enrichment with Self-Supervision.** [[paper]](https://arxiv.org/pdf/2006.10276.pdf)
 1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
 ) [[code]](https://github.com/bdy9527/SDCN)
 1. [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
 1. [ICLR 2019] **Deep Graph Informax.** [[paper]](https://arxiv.org/abs/1809.10341) [[code]](https://github.com/PetarV-/DGI)
-
+1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
 
 
 
