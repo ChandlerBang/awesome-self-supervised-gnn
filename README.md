@@ -11,6 +11,8 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 
 
+1. [arXiv 2020] **COAD: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking** [[paper]](https://arxiv.org/abs/2012.11336)
+1. [arXiv 2020] **Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation** [[paper]](https://arxiv.org/abs/2012.07064)
 1. [arXiv 2020] **Distance-wise Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2012.07437)
 1. [arXiv 2020] **Graph Contrastive Learning with Adaptive Augmentation** [[paper]](https://arxiv.org/abs/2010.14945)
 1. [Openreview 2020] **Motif-Driven Contrastive Learning of Graph Representations** [[paper]](https://openreview.net/forum?id=qcKh_Msv1GP)
