@@ -43,6 +43,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 ## Other related papers
  (implicitly using self-supersvied learning or applying graph neural networks in other domains)
+1. [Arxiv 2020] **Self-supervised Learning: Generative or Contrastive.** [[paper]](https://arxiv.org/abs/2006.08218)
 1. [KDD 2020] **Octet: Online Catalog Taxonomy Enrichment with Self-Supervision.** [[paper]](https://arxiv.org/pdf/2006.10276.pdf)
 1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
 ) [[code]](https://github.com/bdy9527/SDCN)
