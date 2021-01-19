@@ -10,7 +10,8 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 -->
 
 
-
+1. [Arxiv 2021] **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** [[paper]](https://arxiv.org/abs/2101.06448) [[code]](https://github.com/Coder-Yu/RecQ)
+1. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
 1. [Arxiv 2020] **COAD: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking** [[paper]](https://arxiv.org/abs/2012.11336) [[code]](https://github.com/BoChen-Daniel/Expert-Linking)
 1. [Arxiv 2020] **Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation** [[paper]](https://arxiv.org/abs/2012.07064) [[code]](https://github.com/jerryhao66/Pretrain-Recsys)
 1. [Arxiv 2020] **Distance-wise Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2012.07437)
@@ -19,7 +20,6 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [Openreview 2020] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=a5KvtsZ14ev)
 1. [Openreview 2020] **TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations** [[paper]](https://openreview.net/forum?id=9az9VKjOx00)
 1. [Openreview 2020] **Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks** [[paper]](https://openreview.net/forum?id=hnJSgY7p33a)
-1. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
 1. [Openreview 2020] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://openreview.net/forum?id=DAaaaqPv9-q)
 1. [NeurIPS 2020] **Self-Supervised Graph Transformer on Large-Scale Molecular Data** [[paper]](https://drug.ai.tencent.com/publications/GROVER.pdf)
 1. [NeurIPS 2020] **Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs** [[paper]](https://arxiv.org/abs/2007.08294) [[code]](https://github.com/mlvlab/SELAR)
