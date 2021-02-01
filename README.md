@@ -1,5 +1,6 @@
 # awesome-self-supervised-gnn
 Papers about self-supervised learning on Graph Neural Networks (GNN).
+If you feel there are papers with related topics missing, do not hesitate to let us know (via issues or pull requests).
 
 <!---
 ### Contents
