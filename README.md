@@ -10,6 +10,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 * [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
 -->
 
+1. [arXiv 2021] **Self-supervised Auxiliary Learning for Graph Neural Networks via Meta-Learning** [[paper]](https://arxiv.org/abs/2103.00771)
 1. [arXiv 2021] **Graph Self-Supervised Learning: A Survey** [[paper]](https://arxiv.org/abs/2103.00111)
 1. [arXiv 2021] **Towards Robust Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2102.13085.pdf)
 2. [arXiv 2021] **Pre-Training on Dynamic Graph Neural Networks** [[paper]](https://arxiv.org/abs/2102.12380)
