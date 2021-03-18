@@ -12,6 +12,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 
 ## Year 2021
+1. [arXiv 2021] **Drug Target Prediction Using Graph Representation Learning via Substructures Contrast** [[paper]](https://www.preprints.org/manuscript/202103.0337/v1)
 1. [arXiv 2021] **Self-supervised Auxiliary Learning for Graph Neural Networks via Meta-Learning** [[paper]](https://arxiv.org/abs/2103.00771)
 1. [arXiv 2021] **Graph Self-Supervised Learning: A Survey** [[paper]](https://arxiv.org/abs/2103.00111)
 1. [arXiv 2021] **Towards Robust Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2102.13085.pdf)
