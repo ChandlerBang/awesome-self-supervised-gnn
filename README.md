@@ -67,8 +67,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 1. [KDD 2020] **Octet: Online Catalog Taxonomy Enrichment with Self-Supervision.** [[paper]](https://arxiv.org/pdf/2006.10276.pdf)
 1. [WWW 2020] **Structural Deep Clustering Network.** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380214
 ) [[code]](https://github.com/bdy9527/SDCN)
-
-4. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
+1. [IJCAI 2019] **Pre-training of Graph Augmented Transformers for Medication Recommendation.** [[paper]](https://arxiv.org/abs/1906.00346) [[code]](https://github.com/jshang123/G-Bert)
 1. [AAAI 2020] **Unsupervised Attributed Multiplex Network Embedding** [[paper]](https://arxiv.org/abs/1911.06750) [[code]](https://github.com/pcy1302/DMGI)
 1. [WWW 2020] **Graph representation learning via graphical mutual information maximization** [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380112)
 1. [NeurIPS 2017] **Inductive Representation Learning on Large Graphs** [[paper]](https://papers.nips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) [[code]](https://github.com/williamleif/GraphSAGE)
