@@ -22,7 +22,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 5. [WWW 2021 Workshop] **Iterative Graph Self-Distillation** [[paper]](https://arxiv.org/abs/2010.12609)
 6. [WWW 2021] **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism** [[paper]](https://arxiv.org/abs/2101.08170) [[code]](https://github.com/RingBDStack/SUGAR)
 7. [Arxiv 2021] **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** [[paper]](https://arxiv.org/abs/2101.06448) [[code]](https://github.com/Coder-Yu/RecQ)
-8. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
+8. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
 9. [WSDM 2021] **Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation** [[paper]](https://arxiv.org/abs/2012.07064) [[code]](https://github.com/jerryhao66/Pretrain-Recsys)
 
 ## Year 2020
