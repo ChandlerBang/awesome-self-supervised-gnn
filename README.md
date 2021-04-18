@@ -12,6 +12,7 @@ Since GNN pretraining and some unsupervised methods often involve self-supervise
 
 
 ## Year 2021
+1. [arXiv 2021] **Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities** [[paper]](https://arxiv.org/abs/2104.04883)
 1. [arXiv 2021] **Graph Representation Learning by Ensemble Aggregating Subgraphs via Mutual Information Maximization** [[paper]](https://arxiv.org/abs/2103.13125)
 1. [arXiv 2021] **Drug Target Prediction Using Graph Representation Learning via Substructures Contrast** [[paper]](https://www.preprints.org/manuscript/202103.0337/v1)
 1. [arXiv 2021] **Self-supervised Auxiliary Learning for Graph Neural Networks via Meta-Learning** [[paper]](https://arxiv.org/abs/2103.00771)
