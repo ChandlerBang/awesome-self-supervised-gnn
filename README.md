@@ -2,16 +2,9 @@
 Papers about self-supervised learning on Graph Neural Networks (GNNs).
 If you feel there are papers with related topics missing, do not hesitate to let us know (via issues or pull requests).
 
-<!---
-### Contents
-Since GNN pretraining and some unsupervised methods often involve self-supervised learning, here we also include them in this repository.
-* [1. GNN Self-Supervised learning](#1-gnn-self-supervised-learning)
-* [2. GNN Pretraining](#2-gnn-pre-training)
-* [3. Other Related Papers](#3-other-related-papers) (implicitly using self-supersvied learning or applying graph neural networks in other domains)
--->
-
 
 ## Year 2021
+1. [arXiv 2021] **Hop-Count Based Self-Supervised Anomaly Detection on Attributed Networks** [[paper]](https://arxiv.org/abs/2104.07917)
 1. [arXiv 2021] **Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities** [[paper]](https://arxiv.org/abs/2104.04883)
 1. [arXiv 2021] **Graph Representation Learning by Ensemble Aggregating Subgraphs via Mutual Information Maximization** [[paper]](https://arxiv.org/abs/2103.13125)
 1. [arXiv 2021] **Drug Target Prediction Using Graph Representation Learning via Substructures Contrast** [[paper]](https://www.preprints.org/manuscript/202103.0337/v1)
