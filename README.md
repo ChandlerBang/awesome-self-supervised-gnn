@@ -14,6 +14,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 2. [arXiv 2021] **Pre-Training on Dynamic Graph Neural Networks** [[paper]](https://arxiv.org/abs/2102.12380)
 4. [arXiv 2021] **Self-Supervised Learning of Graph Neural Networks: A Unified Review** [[paper]](https://arxiv.org/abs/2102.10757)
 5. [WWW 2021 Workshop] **Iterative Graph Self-Distillation** [[paper]](https://arxiv.org/abs/2010.12609)
+1. [WWW 2021] **Graph Contrastive Learning with Adaptive Augmentation** [[paper]](https://arxiv.org/abs/2010.14945) [[code]](https://github.com/CRIPAC-DIG/GCA)
 6. [WWW 2021] **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism** [[paper]](https://arxiv.org/abs/2101.08170) [[code]](https://github.com/RingBDStack/SUGAR)
 7. [Arxiv 2021] **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** [[paper]](https://arxiv.org/abs/2101.06448) [[code]](https://github.com/Coder-Yu/RecQ)
 8. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
