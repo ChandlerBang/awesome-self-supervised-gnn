@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [IJCNN 2021] **Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation** [[paper]](https://arxiv.org/abs/2104.13014v1)
 1. [arXiv 2021] **Hop-Count Based Self-Supervised Anomaly Detection on Attributed Networks** [[paper]](https://arxiv.org/abs/2104.07917)
 1. [arXiv 2021] **Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities** [[paper]](https://arxiv.org/abs/2104.04883)
 1. [arXiv 2021] **Graph Representation Learning by Ensemble Aggregating Subgraphs via Mutual Information Maximization** [[paper]](https://arxiv.org/abs/2103.13125)
