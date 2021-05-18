@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/2105.05682)
 1. [IJCNN 2021] **Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation** [[paper]](https://arxiv.org/abs/2104.13014v1)
 1. [arXiv 2021] **Hop-Count Based Self-Supervised Anomaly Detection on Attributed Networks** [[paper]](https://arxiv.org/abs/2104.07917)
 1. [arXiv 2021] **Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities** [[paper]](https://arxiv.org/abs/2104.04883)
