@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **Self-supervised on Graphs: Contrastive, Generative,or Predictive** [[paper]](https://arxiv.org/abs/2105.07342)
 1. [arXiv 2021] **FedGL: Federated Graph Learning Framework with Global Self-Supervision** [[paper]](https://arxiv.org/pdf/2105.03170.pdf)
 1. [arXiv 2021] **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/2105.05682)
 1. [IJCNN 2021] **Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation** [[paper]](https://arxiv.org/abs/2104.13014v1)
