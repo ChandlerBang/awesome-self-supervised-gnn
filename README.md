@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [ICML 2021] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://arxiv.org/pdf/2106.04113) [[code]](https://github.com/DeepGraphLearning/GraphLoG)
 1. [KDD 2021] **Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning** [[paper]](https://arxiv.org/abs/2105.09111) [[code]](https://github.com/liun-online/HeCo)
 1. [arXiv 2021] **Self-supervised on Graphs: Contrastive, Generative,or Predictive** [[paper]](https://arxiv.org/abs/2105.07342)
 1. [arXiv 2021] **FedGL: Federated Graph Learning Framework with Global Self-Supervision** [[paper]](https://arxiv.org/pdf/2105.03170.pdf)
@@ -32,7 +33,6 @@ If you feel there are papers with related topics missing, do not hesitate to let
 15. [Openreview 2020] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=a5KvtsZ14ev)
 16. [Openreview 2020] **TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations** [[paper]](https://openreview.net/forum?id=9az9VKjOx00)
 17. [Openreview 2020] **Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks** [[paper]](https://openreview.net/forum?id=hnJSgY7p33a)
-18. [Openreview 2020] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://openreview.net/forum?id=DAaaaqPv9-q)
 19. [Openreview 2020] **Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization** [[paper]](https://openreview.net/forum?id=J_pvI6ap5Mn)
 20. [NeurIPS 2020] **Self-Supervised Graph Transformer on Large-Scale Molecular Data** [[paper]](https://drug.ai.tencent.com/publications/GROVER.pdf)
 21. [NeurIPS 2020] **Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs** [[paper]](https://arxiv.org/abs/2007.08294) [[code]](https://github.com/mlvlab/SELAR)
