@@ -5,7 +5,10 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 ## Year 2021
 1. [ICML 2021] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://arxiv.org/pdf/2106.04113) [[code]](https://github.com/DeepGraphLearning/GraphLoG)
-1. [KDD 2021] **Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning** [[paper]](https://arxiv.org/abs/2105.09111) [[code]](https://github.com/liun-online/HeCo)
+1. [KDD 2021] **MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge** [[paper]](https://arxiv.org/pdf/2106.04509.pdf)
+2. [KDD 2021] **Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning** [[paper]](https://arxiv.org/abs/2105.09111) [[code]](https://github.com/liun-online/HeCo)
+3. [arXiv 2021] **Graph Barlow Twins: A self-supervised representation learning framework for graphs** [[paper]](https://arxiv.org/pdf/2106.02466.pdf)
+4. [arXiv 2021] **Self-Supervised Graph Learning with Proximity-based Views and Channel Contrast** [[paper]](https://arxiv.org/pdf/2106.03723.pdf)
 1. [arXiv 2021] **Self-supervised on Graphs: Contrastive, Generative,or Predictive** [[paper]](https://arxiv.org/abs/2105.07342)
 1. [arXiv 2021] **FedGL: Federated Graph Learning Framework with Global Self-Supervision** [[paper]](https://arxiv.org/pdf/2105.03170.pdf)
 1. [arXiv 2021] **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/2105.05682)
