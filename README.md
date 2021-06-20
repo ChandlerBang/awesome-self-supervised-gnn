@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [Openreview 2021] **An Empirical Study of Graph Contrastive Learning** [[paper]](https://openreview.net/forum?id=fYxEnpY-__G)
 1. [arXiv 2021] **Evaluating Modules in Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.08171) [[code]](https://github.com/thunlp/OpenGCL)
 1. [ICML 2021] **Graph Contrastive Learning Automated** [[paper]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 1. [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [[paper]](https://arxiv.org/abs/2106.05470) [[code]](https://github.com/ChandlerBang/AutoSSL)
