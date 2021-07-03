@@ -4,14 +4,14 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
-1. [arXiv 2021] **CuCo: Graph Representation with Curriculum Contrastive Learning** [[paper]](http://www.shichuan.org/doc/109.pdf)
-1. [arXiv 2021] **Pre-training on Large-Scale Heterogeneous Graph** [[paper]](http://www.shichuan.org/doc/111.pdf)
+1. [IJCAI 2021] **CuCo: Graph Representation with Curriculum Contrastive Learning** [[paper]](http://www.shichuan.org/doc/109.pdf)
 1. [Openreview 2021] **An Empirical Study of Graph Contrastive Learning** [[paper]](https://openreview.net/forum?id=fYxEnpY-__G)
 1. [arXiv 2021] **From Canonical Correlation Analysis to Self-supervised Graph Neural Networks** [[paper]](https://arxiv.org/abs/2106.12484) [[code]](https://github.com/hengruizhang98/CCA-SSG)
 1. [arXiv 2021] **Evaluating Modules in Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.08171) [[code]](https://github.com/thunlp/OpenGCL)
 1. [ICML 2021] **Graph Contrastive Learning Automated** [[paper]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 1. [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [[paper]](https://arxiv.org/abs/2106.05470) [[code]](https://github.com/ChandlerBang/AutoSSL)
 1. [ICML 2021] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://arxiv.org/pdf/2106.04113) [[code]](https://github.com/DeepGraphLearning/GraphLoG)
+1. [KDD 2021] **Pre-training on Large-Scale Heterogeneous Graph** [[paper]](http://www.shichuan.org/doc/111.pdf)
 1. [KDD 2021] **MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge** [[paper]](https://arxiv.org/pdf/2106.04509.pdf)
 2. [KDD 2021] **Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning** [[paper]](https://arxiv.org/abs/2105.09111) [[code]](https://github.com/liun-online/HeCo)
 3. [arXiv 2021] **Prototypical Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2106.09645.pdf)
