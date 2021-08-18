@@ -4,6 +4,8 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [KDD 2021] **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph** [[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467186) [[code]](https://github.com/illidanlab/MoCL-DK)
+1. [KDD 2021] **Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment** [[paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467227)
 1. [arXiv 2021] **Adaptive Transfer Learning on Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2107.08765.pdf)
 1. [arXiv 2021] **Group Contrastive Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/abs/2107.09787) 
 1. [arXiv 2021] **Multi-Level Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2107.02639)
