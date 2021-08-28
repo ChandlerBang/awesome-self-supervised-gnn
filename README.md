@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+4. [arXiv 2021] **Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection** [[paper]](https://arxiv.org/pdf/2108.09896.pdf)
 1. [IJCAI 2021] **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning** [[paper]](https://www.ijcai.org/proceedings/2021/0204.pdf)
 1. [IJCAI 2021] **Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks** [[paper]](https://www.ijcai.org/proceedings/2021/0371.pdf)
 2. [IJCAI 2021] **CuCo: Graph Representation with Curriculum Contrastive Learning** [[paper]](https://www.ijcai.org/proceedings/2021/0317.pdf)
