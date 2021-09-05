@@ -4,6 +4,8 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **Negative Sampling Strategies for Contrastive Self-Supervised Learning of Graph Representations** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168421003479)
+1. [arXiv 2021] **Structure-Aware Hard Negative Mining for Heterogeneous Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2108.13886.pdf)
 1. [arXiv 2021] **Spatio-Temporal Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2108.11873.pdf)
 1. [arXiv 2021] **Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection** [[paper]](https://arxiv.org/pdf/2108.09896.pdf)
 1. [IJCAI 2021] **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning** [[paper]](https://www.ijcai.org/proceedings/2021/0204.pdf)
