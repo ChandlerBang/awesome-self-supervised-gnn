@@ -4,6 +4,8 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2109.11730.pdf)
+1. [arXiv 2021] **Adaptive Multi-layer Contrastive Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2109.14159.pdf)
 1. [KBS 2021] **Multi-aspect self-supervised learning for heterogeneous information network** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512100736X)
 1. [arXiv 2021] **Graph-MVP: Multi-View Prototypical Contrastive Learning for Multiplex Graphs** [[paper]](https://arxiv.org/pdf/2109.03560.pdf)
 1. [arXiv 2021] **Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation** [[paper]](https://arxiv.org/pdf/2109.02859.pdf)
