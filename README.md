@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [Neurips 2021] **Adversarial Graph Augmentation to Improve Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.05819)
 1. [arXiv 2021] **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2109.11730.pdf)
 1. [arXiv 2021] **Adaptive Multi-layer Contrastive Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2109.14159.pdf)
 1. [KBS 2021] **Multi-aspect self-supervised learning for heterogeneous information network** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512100736X)
