@@ -4,7 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
-1. [arXiv 2021] **3D Infomax improves GNNs for Molecular Property Prediction** [[paper]](https://arxiv.org/abs/2110.04126v1) [coda](https://github.com/HannesStark/3DInfomax)
+1. [arXiv 2021] **3D Infomax improves GNNs for Molecular Property Prediction** [[paper]](https://arxiv.org/abs/2110.04126v1) [[code]](https://github.com/HannesStark/3DInfomax)
 1. [CVPR 2021] **Zero-Shot Learning via Contrastive Learning on Dual Knowledge Graphs** [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Wang_Zero-Shot_Learning_via_Contrastive_Learning_on_Dual_Knowledge_Graphs_ICCVW_2021_paper.pdf)
 1. [arXiv 2021] **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2110.00987.pdf)
 2. [arXiv 2021] **Debiased Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.02027.pdf)
