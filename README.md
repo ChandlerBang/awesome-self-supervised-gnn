@@ -4,6 +4,10 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/61677becaa918db6bf2a31cb/original/self-supervised-learning-for-molecular-property-prediction.pdf)
+1. [arXiv 2021] **RPT: Toward Transferable Model on Heterogeneous Researcher Data via Pre-Training** [[paper]](https://arxiv.org/pdf/2110.07336.pdf)
+1. [arXiv 2021] **Scalable Consistency Training for Graph Neural Networks via Self-Ensemble Self-Distillation** [[paper]](https://arxiv.org/pdf/2110.06290.pdf)
+1. [arXiv 2021] **PRE-TRAINING MOLECULAR GRAPH REPRESENTATION WITH 3D GEOMETRY** [[paper]](https://wyliu.com/papers/GraphMVP.pdf) [[code]](https://github.com/chao1224/GraphMVP)
 1. [arXiv 2021] **3D Infomax improves GNNs for Molecular Property Prediction** [[paper]](https://arxiv.org/abs/2110.04126v1) [[code]](https://github.com/HannesStark/3DInfomax)
 1. [CVPR 2021] **Zero-Shot Learning via Contrastive Learning on Dual Knowledge Graphs** [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Wang_Zero-Shot_Learning_via_Contrastive_Learning_on_Dual_Knowledge_Graphs_ICCVW_2021_paper.pdf)
 1. [arXiv 2021] **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2110.00987.pdf)
