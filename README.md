@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [arXiv 2021] **Graph Communal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.14863.pdf)
 1. [arXiv 2021] **Self-supervised Contrastive Attributed Graph Clustering** [[paper]](https://arxiv.org/pdf/2110.08264.pdf)
 1. [arXiv 2021] **Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/61677becaa918db6bf2a31cb/original/self-supervised-learning-for-molecular-property-prediction.pdf)
 1. [arXiv 2021] **RPT: Toward Transferable Model on Heterogeneous Researcher Data via Pre-Training** [[paper]](https://arxiv.org/pdf/2110.07336.pdf)
