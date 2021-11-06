@@ -4,6 +4,8 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [NeurIPS 2021] **InfoGCL: Information-Aware Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.15438.pdf)
+1. [arXiv 2021] **Graph Communal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.14863.pdf)
 1. [arXiv 2021] **Self-supervised Contrastive Attributed Graph Clustering** [[paper]](https://arxiv.org/pdf/2110.08264.pdf)
 1. [arXiv 2021] **Self-Supervised Learning for Molecular Property Prediction** [[paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/61677becaa918db6bf2a31cb/original/self-supervised-learning-for-molecular-property-prediction.pdf)
 1. [arXiv 2021] **RPT: Toward Transferable Model on Heterogeneous Researcher Data via Pre-Training** [[paper]](https://arxiv.org/pdf/2110.07336.pdf)
@@ -16,7 +18,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 3. [arXiv 2021] **3D-Transformer: Molecular Representation with Transformer in 3D Space** [[paper]](https://arxiv.org/pdf/2110.01191.pdf)
 4. [arXiv 2021] **Contrastive Pre-Training of GNNs on Heterogeneous Graphs** [[paper]](https://yuanfulu.github.io/publication/CIKM-CPT.pdf)
 5. [arXiv 2021] **Contrastive Graph Convolutional Networks for Hardware Trojan Detection in Third Party IP Cores** [[paper]](https://people.cs.vt.edu/~ramakris/papers/Hardware_Trojan_Trigger_Detection__HOST2021.pdf)
-6. [Neurips 2021] **Adversarial Graph Augmentation to Improve Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.05819)
+6. [NeurIPS 2021] **Adversarial Graph Augmentation to Improve Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.05819)
 7. [arXiv 2021] **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2109.11730.pdf)
 8. [arXiv 2021] **Adaptive Multi-layer Contrastive Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2109.14159.pdf)
 9. [KBS 2021] **Multi-aspect self-supervised learning for heterogeneous information network** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512100736X)
