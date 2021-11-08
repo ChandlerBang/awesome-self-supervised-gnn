@@ -4,6 +4,12 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
+1. [NeurIPS 2021] **Directed Graph Contrastive Learning** [[paper]](https://zekuntong.com/files/digcl_nips.pdf)
+1. [CIKM 2021] **Multimodal Graph Meta Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482151)
+1. [CIKM 2021] **Self-supervised Representation Learning on Dynamic Graphs** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482389)
+1. [CIKM 2021] **Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482469)
+1. [CIKM 2021] **SGCL: Contrastive Representation Learning for Signed Graphs** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482478)
+1. [CIKM 2021] **Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482477)
 1. [NeurIPS 2021] **InfoGCL: Information-Aware Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.15438.pdf)
 1. [arXiv 2021] **Graph Communal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.14863.pdf)
 1. [arXiv 2021] **Self-supervised Contrastive Attributed Graph Clustering** [[paper]](https://arxiv.org/pdf/2110.08264.pdf)
