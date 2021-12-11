@@ -4,14 +4,14 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2021
-7. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
-8. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 1. [NeurIPS 2021] **Directed Graph Contrastive Learning** [[paper]](https://zekuntong.com/files/digcl_nips.pdf)[[code]](https://github.com/flyingtango/DiGCL)
 2. [NeurIPS 2021] **Multi-view Contrastive Graph Clustering** [[paper]](https://arxiv.org/pdf/2110.11842.pdf)[[code]](https://github.com/Panern/MCGC)
 3. [NeurIPS 2021] **From Canonical Correlation Analysis to Self-supervised Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2106.12484.pdf)[[code]](https://github.com/hengruizhang98/CCA-SSG)
 4. [NeurIPS 2021] **InfoGCL: Information-Aware Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.15438.pdf)
 5. [NeurIPS 2021] **Adversarial Graph Augmentation to Improve Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.05819)[[code]](https://github.com/susheels/adgcl)
 6. [NeurIPS 2021] **Disentangled Contrastive Learning on Graphs** [[paper]](https://openreview.net/pdf?id=C_L0Xw_Qf8M)
+7. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
+8. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 9. [CIKM 2021] **Multimodal Graph Meta Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482151)
 10. [CIKM 2021] **Self-supervised Representation Learning on Dynamic Graphs** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482389)
 11. [CIKM 2021] **Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482469)
