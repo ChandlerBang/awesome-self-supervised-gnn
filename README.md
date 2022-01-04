@@ -4,13 +4,22 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 1. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
 2. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
 3. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 
 ## Year 2021
+3. [arXiv 2021] **Multilayer Graph Contrastive Clustering Network** [[paper]](https://arxiv.org/pdf/2112.14021.pdf)
+3. [arXiv 2021] **Graph Representation Learning via Contrasting Cluster Assignments** [[paper]](https://arxiv.org/pdf/2112.07934.pdf)
+3. [arXiv 2021] **Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2112.08830.pdf)
+3. [arXiv 2021] **Graph Augmentation-Free Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/pdf/2112.08679.pdf)
+3. [arXiv 2021] **Bayesian Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2112.07823.pdf)
 3. [arXiv 2021] **TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning** [[paper]](https://arxiv.org/pdf/2112.03587.pdf)
 4. [ICONIP 2021] **Concordant Contrastive Learning for Semi-supervised Node Classification on Graph** [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_48)
+5. [NeurIPS 2021 Workshop] **Self-Supervised GNN that Jointly Learns to Augment** [[paper]](https://www.researchgate.net/profile/Zekarias-Kefato/publication/356997993_Self-Supervised_GNN_that_Jointly_Learns_to_Augment/links/61b75d88a6251b553ab64ff4/Self-Supervised-GNN-that-Jointly-Learns-to-Augment.pdf)
+5. [NeurIPS 2021 Workshop] **Contrastive Embedding of Structured Space for Bayesian Optimisation** [[paper]](https://openreview.net/pdf?id=xFpkJUMS9te)
+5. [NeurIPS 2021] **Enhancing Hyperbolic Graph Embeddings via Contrastive Learning** [[paper]](https://sslneurips21.github.io/files/CameraReady/NeurIPS_2021_workshop_version2.pdf)
 5. [NeurIPS 2021] **Graph Adversarial Self-Supervised Learning** [[paper]](https://proceedings.neurips.cc/paper/2021/file/7d3010c11d08cf990b7614d2c2ca9098-Paper.pdf)
 6. [NeurIPS 2021] **Contrastive laplacian eigenmaps** [[paper]](https://papers.nips.cc/paper/2021/file/2d1b2a5ff364606ff041650887723470-Paper.pdf)
 7. [NeurIPS 2021] **Directed Graph Contrastive Learning** [[paper]](https://zekuntong.com/files/digcl_nips.pdf)[[code]](https://github.com/flyingtango/DiGCL)
