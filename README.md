@@ -4,7 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
-1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://arxiv.org/abs/2106.05470) 
+1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-) 
 1. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 1. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
 2. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
