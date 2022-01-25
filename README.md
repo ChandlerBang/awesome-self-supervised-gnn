@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://arxiv.org/abs/2106.05470) 
 1. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 1. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
 2. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
@@ -79,7 +80,6 @@ If you feel there are papers with related topics missing, do not hesitate to let
 62. [arXiv 2021] **From Canonical Correlation Analysis to Self-supervised Graph Neural Networks** [[paper]](https://arxiv.org/abs/2106.12484) [[code]](https://github.com/hengruizhang98/CCA-SSG)
 63. [arXiv 2021] **Evaluating Modules in Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.08171) [[code]](https://github.com/thunlp/OpenGCL)
 64. [ICML 2021] **Graph Contrastive Learning Automated** [[paper]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
-65. [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [[paper]](https://arxiv.org/abs/2106.05470) [[code]](https://github.com/ChandlerBang/AutoSSL)
 66. [ICML 2021] **Self-supervised Graph-level Representation Learning with Local and Global Structure** [[paper]](https://arxiv.org/pdf/2106.04113) [[code]](https://github.com/DeepGraphLearning/GraphLoG)
 67. [KDD 2021] **Pre-training on Large-Scale Heterogeneous Graph** [[paper]](http://www.shichuan.org/doc/111.pdf)
 68. [KDD 2021] **MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge** [[paper]](https://arxiv.org/pdf/2106.04509.pdf)
