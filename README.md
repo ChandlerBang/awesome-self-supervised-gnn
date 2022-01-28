@@ -4,13 +4,18 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
-1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-) 
-1. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
-1. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
-2. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
-3. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
+1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
+4. [arXiv 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409.pdf)
+4. [arXiv 2022] **Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation** [[paper]](https://arxiv.org/pdf/2201.07986.pdf)
+6. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+7. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
+8. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
+9. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
+10. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 
 ## Year 2021
+2. [BIBM 2021] **SGAT: a Self-supervised Graph Attention Network for Biomedical Relation Extraction** [[paper]](https://ieeexplore.ieee.org/abstract/document/9669699)
+2. [ICBD 2021] **Session-based Recommendation via Contrastive Learning on Heterogeneous Graph** [[paper]](https://ieeexplore.ieee.org/abstract/document/9671296)
 3. [arXiv 2021] **Multilayer Graph Contrastive Clustering Network** [[paper]](https://arxiv.org/pdf/2112.14021.pdf)
 3. [arXiv 2021] **Graph Representation Learning via Contrasting Cluster Assignments** [[paper]](https://arxiv.org/pdf/2112.07934.pdf)
 3. [arXiv 2021] **Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2112.08830.pdf)
