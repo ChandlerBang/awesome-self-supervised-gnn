@@ -14,7 +14,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 10. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 
 ## Year 2021
-2. [BIBM 2021] **SGAT: a Self-supervised Graph Attention Network for Biomedical Relation Extraction** [[paper]](https://ieeexplore.ieee.org/abstract/document/9669699)
+1. [BIBM 2021] **SGAT: a Self-supervised Graph Attention Network for Biomedical Relation Extraction** [[paper]](https://ieeexplore.ieee.org/abstract/document/9669699)
 2. [ICBD 2021] **Session-based Recommendation via Contrastive Learning on Heterogeneous Graph** [[paper]](https://ieeexplore.ieee.org/abstract/document/9671296)
 3. [arXiv 2021] **Multilayer Graph Contrastive Clustering Network** [[paper]](https://arxiv.org/pdf/2112.14021.pdf)
 3. [arXiv 2021] **Graph Representation Learning via Contrasting Cluster Assignments** [[paper]](https://arxiv.org/pdf/2112.07934.pdf)
