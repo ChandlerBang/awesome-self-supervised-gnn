@@ -19,6 +19,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 8. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
 9. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
 10. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
+13. [AAAI 2022] **Deep Graph Clustering via Dual Correlation Reduction** [[paper]](https://arxiv.org/pdf/2112.14772)[[code]](https://github.com/yueliu1999/DCRN)
 
 ## Year 2021
 1. [BIBM 2021] **SGAT: a Self-supervised Graph Attention Network for Biomedical Relation Extraction** [[paper]](https://ieeexplore.ieee.org/abstract/document/9669699)
