@@ -4,6 +4,9 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [arXiv 2022] **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation** [[paper]](https://arxiv.org/pdf/2202.03104.pdf)
+1. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
+1. [arXiv 2022] **Graph Self-supervised Learning with Accurate Discrepancy Learning** [[paper]](https://arxiv.org/pdf/2202.02989.pdf)
 1. [arXiv 2022] **Learning Robust Representation through Graph Adversarial Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.13025.pdf)
 1. [arXiv 2022] **Self-supervised Graphs for Audio Representation Learning with Limited Labeled Data** [[paper]](https://arxiv.org/pdf/2202.00097.pdf)
 1. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
