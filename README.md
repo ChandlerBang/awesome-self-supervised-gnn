@@ -120,9 +120,11 @@ If you feel there are papers with related topics missing, do not hesitate to let
 88. [WWW 2021] **HDMI: High-order Deep Multiplex Infomax** [[paper]](https://arxiv.org/abs/2102.07810) [[code]](https://github.com/baoyujing/HDMI)
 89. [WWW 2021] **Graph Contrastive Learning with Adaptive Augmentation** [[paper]](https://arxiv.org/abs/2010.14945) [[code]](https://github.com/CRIPAC-DIG/GCA)
 90. [WWW 2021] **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism** [[paper]](https://arxiv.org/abs/2101.08170) [[code]](https://github.com/RingBDStack/SUGAR)
-91. [Arxiv 2021] **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** [[paper]](https://arxiv.org/abs/2101.06448) [[code]](https://github.com/Coder-Yu/RecQ)
-92. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
-93. [WSDM 2021] **Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation** [[paper]](https://arxiv.org/abs/2012.07064) [[code]](https://github.com/jerryhao66/Pretrain-Recsys)
+91. [WWW 2021] **Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction** [[paper]](https://arxiv.org/abs/2010.11711) [[code]](https://github.com/isjakewong/MIRACLE)
+92. [Arxiv 2021] **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** [[paper]](https://arxiv.org/abs/2101.06448) [[code]](https://github.com/Coder-Yu/RecQ)
+93. [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
+94. [WSDM 2021] **Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation** [[paper]](https://arxiv.org/abs/2012.07064) [[code]](https://github.com/jerryhao66/Pretrain-Recsys)
+95. [BIBM 2021] **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1)
 
 ## Year 2020
 1. [Arxiv 2020] **COAD: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking** [[paper]](https://arxiv.org/abs/2012.11336) [[code]](https://github.com/BoChen-Daniel/Expert-Linking)
