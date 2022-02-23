@@ -128,6 +128,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 95. [BIBM 2021] **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1)
 
 ## Year 2020
+1. [ICDM 2020] **Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/2009.10273) [[code]](https://github.com/yzjiao/Subg-Con)
 1. [Arxiv 2020] **COAD: Contrastive Pre-training with Adversarial Fine-tuning for Zero-shot Expert Linking** [[paper]](https://arxiv.org/abs/2012.11336) [[code]](https://github.com/BoChen-Daniel/Expert-Linking)
 12. [Arxiv 2020] **Distance-wise Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2012.07437)
 14. [Openreview 2020] **Motif-Driven Contrastive Learning of Graph Representations** [[paper]](https://openreview.net/forum?id=qcKh_Msv1GP)
