@@ -1,7 +1,10 @@
 # awesome-self-supervised-gnn
-Papers about self-supervised learning on Graph Neural Networks (GNNs).
-If you feel there are papers with related topics missing, do not hesitate to let us know (via issues or pull requests).
 
+![](https://img.shields.io/badge/PRs-Welcome-green)
+
+This repository contains a list of papers on the **Self-supervised Learning on Graph Neural Networks (GNNs)**, we categorize them based on their published years.
+
+We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
 1. [arxiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[code]](https://github.com/weiwei1206/CML.git)
@@ -181,4 +184,6 @@ If you feel there are papers with related topics missing, do not hesitate to let
 1. [WWW 2015] **LINE: Large-scale Information Network Embedding** [[paper]](https://dl.acm.org/doi/abs/10.1145/2736277.2741093) [[code]](https://github.com/tangjianpku/LINE)
 1. [KDD 2014] **DeepWalk: Online Learning of Social Representations** [[paper]](https://dl.acm.org/doi/abs/10.1145/2623330.2623732) [[code]](https://github.com/phanein/deepwalk)
 
+## Acknowledgement
 
+This page is contributed by [Wei Jin](http://cse.msu.edu/~jinwei2/)(joe.weijin@gmail.com), [Yuning You](https://yyou1996.github.io/)(yuning.you@tamu.edu) and [Yingheng Wang](https://isjakewong.github.io/)(jakewyh@163.com).
