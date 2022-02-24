@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [arxiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[Code]]
 1. [arXiv 2022] **Fair Node Representation Learning via Adaptive Data Augmentation** [[paper]](https://arxiv.org/pdf/2201.08549.pdf)
 1. [arXiv 2022] **Learning Graph Augmentations to Learn Graph Representations** [[paper]](https://arxiv.org/pdf/2201.09830.pdf)[[Code]](https://github.com/kavehhassani/lg2ar)
 1. [arXiv 2022] **Graph Data Augmentation for Graph Machine Learning: A Survey** [[paper]](https://arxiv.org/pdf/2202.08871.pdf)
