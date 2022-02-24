@@ -1,6 +1,6 @@
 # awesome-self-supervised-gnn
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?color=yellow)  ![Forks](https://img.shields.io/github/forks/ChandlerBang/awesome-self-supervised-gnn?color=blue&label=Fork)  ![Visits](https://visitor-badge.glitch.me/badge?page_id=ChandlerBang/awesome-self-supervised-gnn)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?color=yellow)  ![Forks](https://img.shields.io/github/forks/ChandlerBang/awesome-self-supervised-gnn?color=blue&label=Fork)
 
 This repository contains a list of papers on the **Self-supervised Learning on Graph Neural Networks (GNNs)**, we categorize them based on their published years.
 
