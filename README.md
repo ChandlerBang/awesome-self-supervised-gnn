@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [arXiv 2022] **Graph Data Augmentation for Graph Machine Learning: A Survey** [[paper]](https://arxiv.org/pdf/2202.08871.pdf)
 1. [arXiv 2022] **Data Augmentation for Deep Graph Learning: A Survey** [[paper]](https://arxiv.org/abs/2202.08235)
 1. [arXiv 2022] **Adversarial Graph Contrastive Learning with Information Regularization** [[paper]](https://arxiv.org/pdf/2202.06491.pdf)
 1. [bioRxiv 2022] **Towards Effective and Generalizable Fine-tuning for Pre-trained Molecular Graph Models** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/02/06/2022.02.03.479055.full.pdf)
