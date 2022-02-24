@@ -4,6 +4,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
+1. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
 1. [arXiv 2022] **Graph Data Augmentation for Graph Machine Learning: A Survey** [[paper]](https://arxiv.org/pdf/2202.08871.pdf)
 1. [arXiv 2022] **Data Augmentation for Deep Graph Learning: A Survey** [[paper]](https://arxiv.org/abs/2202.08235)
 1. [arXiv 2022] **Adversarial Graph Contrastive Learning with Information Regularization** [[paper]](https://arxiv.org/pdf/2202.06491.pdf)
