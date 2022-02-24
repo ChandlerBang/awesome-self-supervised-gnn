@@ -4,27 +4,28 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 
 ## Year 2022
-1. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
+1. [arXiv 2022] **Learning Graph Augmentations to Learn Graph Representations** [[paper]](https://arxiv.org/pdf/2201.09830.pdf)[[Code]](https://github.com/kavehhassani/lg2ar)
 1. [arXiv 2022] **Graph Data Augmentation for Graph Machine Learning: A Survey** [[paper]](https://arxiv.org/pdf/2202.08871.pdf)
 1. [arXiv 2022] **Data Augmentation for Deep Graph Learning: A Survey** [[paper]](https://arxiv.org/abs/2202.08235)
 1. [arXiv 2022] **Adversarial Graph Contrastive Learning with Information Regularization** [[paper]](https://arxiv.org/pdf/2202.06491.pdf)
 1. [bioRxiv 2022] **Towards Effective and Generalizable Fine-tuning for Pre-trained Molecular Graph Models** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/02/06/2022.02.03.479055.full.pdf)
 1. [arXiv 2022] **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation** [[paper]](https://arxiv.org/pdf/2202.03104.pdf)
-1. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
 1. [arXiv 2022] **Graph Self-supervised Learning with Accurate Discrepancy Learning** [[paper]](https://arxiv.org/pdf/2202.02989.pdf)
 1. [arXiv 2022] **Learning Robust Representation through Graph Adversarial Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.13025.pdf)
 1. [arXiv 2022] **Self-supervised Graphs for Audio Representation Learning with Limited Labeled Data** [[paper]](https://arxiv.org/pdf/2202.00097.pdf)
-1. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
 1. [arXiv 2022] **Link Prediction with Contextualized Self-Supervision** [[paper]](https://arxiv.org/pdf/2201.10069.pdf)
-1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
 4. [arXiv 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409.pdf)
 4. [arXiv 2022] **Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation** [[paper]](https://arxiv.org/pdf/2201.07986.pdf)
-6. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 7. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 8. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
 9. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
 10. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
 13. [AAAI 2022] **Deep Graph Clustering via Dual Correlation Reduction** [[paper]](https://arxiv.org/pdf/2112.14772)[[code]](https://github.com/yueliu1999/DCRN)
+6. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+1. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
+1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
+1. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
+1. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
 
 ## Year 2021
 1. [BIBM 2021] **SGAT: a Self-supervised Graph Attention Network for Biomedical Relation Extraction** [[paper]](https://ieeexplore.ieee.org/abstract/document/9669699)
