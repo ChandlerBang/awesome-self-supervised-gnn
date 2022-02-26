@@ -21,6 +21,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [arXiv 2022] **Link Prediction with Contextualized Self-Supervision** [[paper]](https://arxiv.org/pdf/2201.10069.pdf)
 4. [arXiv 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409.pdf)
 4. [arXiv 2022] **Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation** [[paper]](https://arxiv.org/pdf/2201.07986.pdf)
+7. [arXiv 2022] **From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach** [[paper]](https://arxiv.org/pdf/2202.05525)
+7. [arXiv 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409)
 7. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 1. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
 1. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
