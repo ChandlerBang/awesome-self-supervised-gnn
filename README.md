@@ -7,7 +7,10 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
-1. [arxiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[code]](https://github.com/weiwei1206/CML.git)
+1. [arXiv 2022] **Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast** [[paper]](https://arxiv.org/pdf/2202.09346.pdf)
+1. [TNNLS 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** [[paper]](https://yangliang.github.io/pdf/tnnls22.pdf)
+1. [WWW 2022] **ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs** [[paper]](https://xiaojingzi.github.io/publications/WWW22-Wang-et-al-ClusterSCL.pdf)
+1. [arXiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[code]](https://github.com/weiwei1206/CML.git)
 1. [arXiv 2022] **Fair Node Representation Learning via Adaptive Data Augmentation** [[paper]](https://arxiv.org/pdf/2201.08549.pdf)
 1. [arXiv 2022] **Learning Graph Augmentations to Learn Graph Representations** [[paper]](https://arxiv.org/pdf/2201.09830.pdf)[[code]](https://github.com/kavehhassani/lg2ar)
 1. [arXiv 2022] **Graph Data Augmentation for Graph Machine Learning: A Survey** [[paper]](https://arxiv.org/pdf/2202.08871.pdf)
