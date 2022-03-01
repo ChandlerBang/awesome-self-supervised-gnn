@@ -7,6 +7,8 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning** [[paper]](https://arxiv.org/pdf/2202.08480)
+1. [arXiv 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** [[paper]](https://yangliang.github.io/pdf/tnnls22.pdf)
 1. [arXiv 2022] **Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast** [[paper]](https://arxiv.org/pdf/2202.09346.pdf)
 1. [arXiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[code]](https://github.com/weiwei1206/CML.git)
 1. [arXiv 2022] **Fair Node Representation Learning via Adaptive Data Augmentation** [[paper]](https://arxiv.org/pdf/2201.08549.pdf)
