@@ -28,6 +28,7 @@ We will try to make this list updated. If you found any error or any missed pape
 7. [arXiv 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409)
 7. [arXiv 2022] **Structure-Enhanced Heterogeneous Graph Contrastive Learning** [[paper]](https://sxkdz.github.io/files/publications/SDM/STENCIL/STENCIL.pdf)
 1. [TNNLS 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** [[paper]](https://yangliang.github.io/pdf/tnnls22.pdf)
+1. [WWW 2022] **Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** [[paper]](https://arxiv.org/pdf/2202.06200.pdf) [[code]](https://github.com/RUCAIBox/NCL)
 1. [WWW 2022] **ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs** [[paper]](https://xiaojingzi.github.io/publications/WWW22-Wang-et-al-ClusterSCL.pdf)
 9. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
 10. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
