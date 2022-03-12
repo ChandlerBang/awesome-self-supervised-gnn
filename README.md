@@ -147,7 +147,7 @@ We will try to make this list updated. If you found any error or any missed pape
 77. [IJCNN 2021] **Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation** [[paper]](https://arxiv.org/abs/2104.13014v1)
 
 ## Year 2020
-14. [Openreview 2020] **Motif-Driven Contrastive Learning of Graph Representations** [[paper]](https://openreview.net/forum?id=qcKh_Msv1GP)
+1. [Openreview 2020] **Motif-Driven Contrastive Learning of Graph Representations** [[paper]](https://openreview.net/forum?id=qcKh_Msv1GP)
 15. [Openreview 2020] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[paper]](https://openreview.net/forum?id=a5KvtsZ14ev)
 16. [Openreview 2020] **TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations** [[paper]](https://openreview.net/forum?id=9az9VKjOx00)
 17. [Openreview 2020] **Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks** [[paper]](https://openreview.net/forum?id=hnJSgY7p33a)
