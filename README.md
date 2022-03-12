@@ -7,6 +7,8 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision** [[paper]](https://arxiv.org/pdf/2203.03762.pdf)
+1. [AAAI 2022] **Simple Unsupervised Graph Representation Learning** [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-3999.MoY.pdf)
 1. [arXiv 2022] **Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning** [[paper]](https://arxiv.org/pdf/2202.08480)
 1. [arXiv 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** [[paper]](https://yangliang.github.io/pdf/tnnls22.pdf)
 1. [arXiv 2022] **Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast** [[paper]](https://arxiv.org/pdf/2202.09346.pdf)
