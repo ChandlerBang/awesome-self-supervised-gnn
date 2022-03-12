@@ -44,7 +44,7 @@ We will try to make this list updated. If you found any error or any missed pape
 17. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
 
 ## Year 2021
-16. [arXiv 2021] **Pre-training Graph Neural Network for Cross Domain Recommendation** [[paper]](https://arxiv.org/pdf/2111.08268.pdf)
+1. [arXiv 2021] **Pre-training Graph Neural Network for Cross Domain Recommendation** [[paper]](https://arxiv.org/pdf/2111.08268.pdf)
 17. [arXiv 2021] **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices** [[paper]](https://arxiv.org/pdf/2111.03220.pdf)
 18. [arXiv 2021] **Collaborative Graph Contrastive Learning: Data Augmentation Composition May Not be Necessary for Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2111.03262.pdf)
 13. [arXiv 2021] **Multi-task Self-distillation for Graph-based Semi-Supervised Learning** [[paper]](https://arxiv.org/pdf/2112.01174.pdf)
