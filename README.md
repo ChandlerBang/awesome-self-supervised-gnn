@@ -7,6 +7,8 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination** [[paper]](https://arxiv.org/pdf/2203.10866.pdf)
+1. [Bioinformatics 2022] **Supervised Graph Co-contrastive Learning for Drug-Target Interaction Prediction** [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac164/6551245?login=true)
 1. [arXiv 2022] **Supervised Contrastive Learning with Structure Inference for Graph Classification** [[paper]](https://arxiv.org/pdf/2203.07691)
 1. [arXiv 2022] **Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision** [[paper]](https://arxiv.org/pdf/2203.03762.pdf)
 1. [arXiv 2022] **Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning** [[paper]](https://arxiv.org/pdf/2202.08480)
