@@ -7,6 +7,8 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
+1. [arXiv 2022] **Augmentation-Free Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04874)
 1. [TCybern 2022] **Link-Information Augmented Twin Autoencoders for Network Denoising** [[paper]](https://ieeexplore.ieee.org/abstract/document/9745753)
 1. [arXiv 2022] **Node Representation Learning in Graph via Node-to-Neighbourhood Mutual Information Maximization** [[paper]](https://arxiv.org/pdf/2203.12265)
 1. [arXiv 2022] **GraphCoCo: Graph Complementary Contrastive Learning** [[paper]](https://arxiv.org/pdf/2203.12821)
