@@ -7,6 +7,15 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [WWW 2022] **Rumor Detection on Social Media with Graph Adversarial Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511999)
+1. [arXiv 2022] **A Review-aware Graph Contrastive Learning Framework for Recommendation** [[paper]](https://arxiv.org/pdf/2204.12063.pdf)
+1. [WWW 2022] **Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction** [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512182)
+1. [arXiv 2022] **CGC: Contrastive Graph Clustering for Community Detection and Tracking** [[paper]](https://arxiv.org/pdf/2204.08504.pdf)
+1. [TCyber 2022] **Multiview Deep Graph Infomax to Achieve Unsupervised Graph Embedding** [[paper]](https://ieeexplore.ieee.org/abstract/document/9758652)
+1. [arXiv 2022] **MVGCNMDA: Multi-view Graph Augmentation Convolutional Network for Uncovering Disease-Related Microbes** [[paper]](https://link.springer.com/article/10.1007/s12539-022-00514-2)
+1. [arXiv 2022] **CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data** [[paper]](https://arxiv.org/pdf/2204.04303.pdf)
+1. [arXiv 2022] **Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation** [[paper]](https://arxiv.org/pdf/2204.05104.pdf)
+1. [arXiv 2022] **Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation** [[paper]](https://www.researchgate.net/profile/Junliang-Yu/publication/359788233_Are_Graph_Augmentations_Necessary_Simple_Graph_Contrastive_Learning_for_Recommendation/links/624e802ad726197cfd426f81/Are-Graph-Augmentations-Necessary-Simple-Graph-Contrastive-Learning-for-Recommendation.pdf)
 1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
 1. [arXiv 2022] **Augmentation-Free Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04874)
 1. [TCybern 2022] **Link-Information Augmented Twin Autoencoders for Network Denoising** [[paper]](https://ieeexplore.ieee.org/abstract/document/9745753)
