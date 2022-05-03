@@ -59,6 +59,7 @@ We will try to make this list updated. If you found any error or any missed pape
 20. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 21. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
 22. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
+22. [SIGIR 2022] **Knowledge Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2205.00976) [[code]](https://github.com/yuh-yang/KGCL-SIGIR22)
 
 ## Year 2021
 1. [AAAI 2021] **Self-supervised hypergraph convolutional networks for session-based recommendation** [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-1889.XiaX.pdf)
