@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [SIGIR 2022] **Hypergraph Contrastive Collaborative Filtering** [[paper]](https://arxiv.org/pdf/2204.12200.pdf)
 1. [WWW 2022] **Rumor Detection on Social Media with Graph Adversarial Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511999)
 1. [arXiv 2022] **A Review-aware Graph Contrastive Learning Framework for Recommendation** [[paper]](https://arxiv.org/pdf/2204.12063.pdf)
 1. [WWW 2022] **Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction** [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512182)
@@ -50,16 +51,16 @@ We will try to make this list updated. If you found any error or any missed pape
 11. [WWW 2022] **Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** [[paper]](https://arxiv.org/pdf/2202.06200.pdf) [[code]](https://github.com/RUCAIBox/NCL)
 12. [WWW 2022] **ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs** [[paper]](https://xiaojingzi.github.io/publications/WWW22-Wang-et-al-ClusterSCL.pdf)
 13. [ICLR 2022] **Large-Scale Representation Learning on Graphs via Bootstrapping** [[paper]](https://arxiv.org/pdf/2102.06514.pdf)[[Code]](https://github.com/Namkyeong/BGRL_Pytorch)
-14. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-)
-15. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
-16. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
-17. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
-18. [AAAI 2022] **Deep Graph Clustering via Dual Correlation Reduction** [[paper]](https://arxiv.org/pdf/2112.14772)[[code]](https://github.com/yueliu1999/DCRN)
-19. [AAAI 2022] **Simple Unsupervised Graph Representation Learning** [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-3999.MoY.pdf)
-20. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
-21. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
-22. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
-22. [SIGIR 2022] **Knowledge Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2205.00976) [[code]](https://github.com/yuh-yang/KGCL-SIGIR22)
+14. [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [[paper]](https://openreview.net/forum?id=rFbR4Fv-D6-) [[code]](https://github.com/ChandlerBang/AutoSSL)
+16. [AAAI 2022] **Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing** [[paper]](https://yangliang.github.io/pdf/aaai22.pdf)
+17. [AAAI 2022] **Augmentation-Free Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2112.02472.pdf)[[code]](https://github.com/Namkyeong/AFGRL)
+18. [AAAI 2022] **Molecular Contrastive Learning with Chemical Element Knowledge Graph** [[paper]](https://arxiv.org/pdf/2112.00544.pdf)
+19. [AAAI 2022] **Deep Graph Clustering via Dual Correlation Reduction** [[paper]](https://arxiv.org/pdf/2112.14772)[[code]](https://github.com/yueliu1999/DCRN)
+20. [AAAI 2022] **Simple Unsupervised Graph Representation Learning** [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-3999.MoY.pdf)
+21. [WSDM 2022] **Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+22. [ICOIN 2022] **Adaptive Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9687176)
+23. [NPL 2022] **How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?** [[paper]](https://link.springer.com/article/10.1007/s11063-022-10750-8)
+24. [SIGIR 2022] **Knowledge Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2205.00976) [[code]](https://github.com/yuh-yang/KGCL-SIGIR22)
 
 ## Year 2021
 1. [AAAI 2021] **Self-supervised hypergraph convolutional networks for session-based recommendation** [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-1889.XiaX.pdf)
