@@ -7,6 +7,17 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [DASFAA 2022] **CSGNN: Improving Graph Neural Networks with Contrastive Semi-supervised Learning** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-00123-9_58)
+1. [arXiv 2022] **Dynamic Graph Representation Based on Temporal and Contextual Contrasting** [[paper]](https://assets.researchsquare.com/files/rs-1588877/v1_covered.pdf?c=1651680782)
+1. [DASFAA 2022] **Diffusion-Based Graph Contrastive Learning for Recommendation with Implicit Feedback** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-00126-0_15)
+1. [arXiv 2022] **FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive Neighborhood Aggregation** [[paper]](https://arxiv.org/pdf/2205.00905.pdf)
+1. [arXiv 2022] **RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.13846.pdf)
+1. [arXiv 2022] **Heterogeneous Graph Neural Networks using Self-supervised Reciprocally Contrastive Learning** [[paper]](https://arxiv.org/pdf/2205.00256.pdf)
+1. [WSDM 2022] **JGCL: Joint Self-Supervised and Supervised Graph Contrastive Learning** [[paper]](https://www2022.thewebconf.org/PaperFiles/161.pdf)
+1. [AAAI 2022] **SAIL: Self-Augmented Graph Contrastive Learning** [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-8378.YuL.pdf)
+1. [ICASSP 2022] **Graph Fine-Grained Contrastive Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9746085)
+1. [arXiv 2022] **SCGC: Self-Supervised Contrastive Graph Clustering** [[paper]](https://arxiv.org/pdf/2204.12656.pdf)
+1. [arXiv 2022] **A Content-First Benchmark for Self-Supervised Graph Representation Learning** [[paper]](https://graph-learning-benchmarks.github.io/assets/papers/glb2022/A_Content_First_Benchmark_for_Self_Supervised_Graph_Representation_Learning.pdf)
 1. [SIGIR 2022] **Hypergraph Contrastive Collaborative Filtering** [[paper]](https://arxiv.org/pdf/2204.12200.pdf)
 1. [WWW 2022] **Rumor Detection on Social Media with Graph Adversarial Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511999)
 1. [arXiv 2022] **A Review-aware Graph Contrastive Learning Framework for Recommendation** [[paper]](https://arxiv.org/pdf/2204.12063.pdf)
