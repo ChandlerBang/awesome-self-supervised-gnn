@@ -7,6 +7,14 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[paper]](https://zepengzhang.com/Notes/2022/20220507.pdf)
+1. [arXiv 2022] **HCL: Hybrid Contrastive Learning for Graph-based Recommendation** [[paper]](https://assets.amazon.science/21/8b/a804e89041f1a83bb1f77fa6aaee/hcl-hybrid-contrastive-learning-for-graph-based-recommendation.pdf)
+1. [arXiv 2022] **Representation learning with function call graph transformations for malware open set recognition** [[paper]](https://arxiv.org/pdf/2205.07865.pdf)
+1. [arXiv 2022] **Simple Contrastive Graph Clustering** [[paper]](https://arxiv.org/pdf/2205.07865.pdf)
+1. [NCA 2022] **Self-supervised graph representation learning using multi-scale subgraph views contrast** [[paper]](https://link.springer.com/article/10.1007/s00521-022-07299-x)
+1. [ACL 2022] **JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection** [[paper]](https://aclanthology.org/2022.acl-long.7/) 
+1. [IPM 2022] **Contrastive Graph Convolutional Networks with adaptive augmentation for text classification** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457322000681) 
+1. [PAKDD 2022] **Contrastive Attributed Network Anomaly Detection with Data Augmentation** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-05936-0_35) 
 1. [DASFAA 2022] **CSGNN: Improving Graph Neural Networks with Contrastive Semi-supervised Learning** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-00123-9_58)
 1. [arXiv 2022] **Dynamic Graph Representation Based on Temporal and Contextual Contrasting** [[paper]](https://assets.researchsquare.com/files/rs-1588877/v1_covered.pdf?c=1651680782)
 1. [DASFAA 2022] **Diffusion-Based Graph Contrastive Learning for Recommendation with Implicit Feedback** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-00126-0_15)
