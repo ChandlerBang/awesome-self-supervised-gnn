@@ -8,7 +8,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Year 2022
 1. [KDD 2022] **GraphMAE: Self-supervised Masked Graph Autoencoders** [[paper]](https://arxiv.org/pdf/2205.10803.pdf)
-2. [TISPN 2022] **Fair Contrastive Learning on Graphs** [[paper]](https://arxiv.org/pdf/2205.10803.pdf](https://ieeexplore.ieee.org/abstract/document/9779533)
+2. [TISPN 2022] **Fair Contrastive Learning on Graphs** [paper](https://arxiv.org/pdf/2205.10803.pdf](https://ieeexplore.ieee.org/abstract/document/9779533)
 3. [arXiv 2022] **SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks** [[paper]](https://zepengzhang.com/Notes/2022/20220507.pdf)
 4. [arXiv 2022] **HCL: Hybrid Contrastive Learning for Graph-based Recommendation** [[paper]](https://assets.amazon.science/21/8b/a804e89041f1a83bb1f77fa6aaee/hcl-hybrid-contrastive-learning-for-graph-based-recommendation.pdf)
 5. [arXiv 2022] **Representation learning with function call graph transformations for malware open set recognition** [[paper]](https://arxiv.org/pdf/2205.07865.pdf)
