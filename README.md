@@ -7,6 +7,9 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Omni-Granular Ego-Semantic Propagation for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2205.15746.pdf)
+2. [arXiv 2022] **Improving Subgraph Representation Learning via Multi-View Augmentation** [[paper]](https://arxiv.org/pdf/2205.13038.pdf)
+2. [arXiv 2022] **Triangular Contrastive Learning on Molecular Graphs** [[paper]](https://arxiv.org/pdf/2205.13279.pdf)
 1. [KDD 2022] **GraphMAE: Self-supervised Masked Graph Autoencoders** [[paper]](https://arxiv.org/pdf/2205.10803.pdf)
 2. [arXiv 2022] **MaskGAE: Masked Graph Modeling Meets Graph Autoencoders** [[paper]](https://arxiv.org/pdf/2205.10053.pdf)
 2. [ICML 2022] **Understanding Limitations of Unsupervised Graph Representation Learning from a Data-Dependent Perspective** [[paper]](https://www.osti.gov/servlets/purl/1868861)
