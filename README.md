@@ -7,6 +7,14 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [bioRiv 2022] **Cross-modal Graph Contrastive Learning with Cellular Images** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/06/06/2022.06.05.494905.full.pdf)
+1. [Information Sciences 2022] **A new self-supervised task on graphs: Geodesic distance prediction** [[paper]]([https://hansen7.github.io/sandbox/molgrapheval.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0020025522006375))
+1. [arXiv 2022] **Evaluating Self-Supervised Learning for Molecular Graph Embeddings** [[paper]](https://hansen7.github.io/sandbox/molgrapheval.pdf)
+1. [arXiv 2022] **Evaluating Graph Generative Models with Contrastively Learned Features** [[paper]](https://arxiv.org/pdf/2206.06234.pdf)
+1. [arXiv 2022] **COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2206.04726.pdf)
+1. [arXiv 2022] **Decoupled Self-supervised Learning for Non-Homophilous Graphs** [[paper]](https://arxiv.org/pdf/2206.03601.pdf)
+1. [arXiv 2022] **Interpolation-based Correlation Reduction Network for Semi-Supervised Graph Learning** [[paper]](https://arxiv.org/pdf/2206.02796.pdf)
+1. [arXiv 2022] **Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination** [[paper]](https://arxiv.org/pdf/2206.01535.pdf)
 1. [arXiv 2022] **KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction** [[paper]](https://arxiv.org/pdf/2206.03364.pdf)
 1. [CVPR 2022] **Robust Optimization As Data Augmentation for Large-Scale Graphs** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf)
 1. [arXiv 2022] **COIN: Co-Cluster Infomax for Bipartite Graphs** [[paper]](https://arxiv.org/pdf/2206.00006.pdf)
