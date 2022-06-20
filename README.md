@@ -7,7 +7,7 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
-1. [arXiv 2022] **Fair Contrastive Learning on Graphs** [[paper]](https://ieeexplore.ieee.org/abstract/document/9779533)
+1. [TSIPN 2022] **Fair Contrastive Learning on Graphs** [[paper]](https://ieeexplore.ieee.org/abstract/document/9779533)
 1. [arXiv 2022] **I’m Me, We’re Us, and I’m Us: Tri-directional Contrastive Learning on Hypergraphs** [[paper]](https://arxiv.org/pdf/2206.04739.pdf)
 1. [arXiv 2022] **CLEAR: Cluster-Enhanced Contrast for Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9791433)
 1. [arXiv 2022] **Let Invariant Rationale Discovery Inspire Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2206.07869.pdf)
