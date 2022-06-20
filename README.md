@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **CLEAR: Cluster-Enhanced Contrast for Self-Supervised Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9791433)
 1. [arXiv 2022] **Let Invariant Rationale Discovery Inspire Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2206.07869.pdf)
 1. [arXiv 2022] **Omni-Granular Ego-Semantic Propagation for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2205.15746.pdf)
 2. [arXiv 2022] **Improving Subgraph Representation Learning via Multi-View Augmentation** [[paper]](https://arxiv.org/pdf/2205.13038.pdf)
