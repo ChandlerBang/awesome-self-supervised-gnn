@@ -7,6 +7,10 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [JFCST 2022] **Graph Neural Network Defense Combined with Contrastive Learning** [[paper]](http://fcst.ceaj.org/EN/article/downloadArticleFile.do?attachType=PDF&id=3113)
+1. [ICMLW 2022] **Evaluating Self-Supervised Learned Molecular Graphs** [[paper]](https://openreview.net/pdf?id=LeJC_Mf5rx-)
+1. [KDD 2022] **Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN** [[paper]](https://ponderly.github.io/pub/STABLE_KDD2022.pdf)
+1. [ICMLW 2022] **Featurizations Matter: A Multiview Contrastive Learning Approach to Molecular Pretraining** [[paper]](https://openreview.net/pdf?id=Pm1Q1X3avx1)
 1. [bioRiv 2022] **Cross-modal Graph Contrastive Learning with Cellular Images** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/06/06/2022.06.05.494905.full.pdf)
 1. [Information Sciences 2022] **A new self-supervised task on graphs: Geodesic distance prediction** [[paper]]([https://hansen7.github.io/sandbox/molgrapheval.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0020025522006375))
 1. [arXiv 2022] **Evaluating Self-Supervised Learning for Molecular Graph Embeddings** [[paper]](https://hansen7.github.io/sandbox/molgrapheval.pdf)
