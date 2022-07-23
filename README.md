@@ -7,6 +7,12 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **3D Equivariant Molecular Graph Pretraining** [[paper]](https://arxiv.org/pdf/2207.08824.pdf)
+1. [arXiv 2022] **Unified 2D and 3D Pre-Training of Molecular Representations** [[paper]](https://arxiv.org/pdf/2207.08806.pdf)
+1. [arXiv 2022] **Does GNN Pretraining Help Molecular Representation?** [[paper]](https://arxiv.org/pdf/2207.06010.pdf)
+1. [arXiv 2022] **Latent Augmentation For Better Graph Self-Supervised Learning** [[paper]](https://arxiv.org/pdf/2206.12933.pdf)
+1. [arXiv 2022] **Geometry Contrastive Learning on Heterogeneous Graphs** [[paper]](https://arxiv.org/pdf/2206.12547.pdf)
+1. [KIS 2022] **Self-supervised role learning for graph neural networks** [[paper]](https://link.springer.com/article/10.1007/s10115-022-01694-5)
 1. [JFCST 2022] **Graph Neural Network Defense Combined with Contrastive Learning** [[paper]](http://fcst.ceaj.org/EN/article/downloadArticleFile.do?attachType=PDF&id=3113)
 1. [ICMLW 2022] **Evaluating Self-Supervised Learned Molecular Graphs** [[paper]](https://openreview.net/pdf?id=LeJC_Mf5rx-)
 1. [KDD 2022] **Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN** [[paper]](https://ponderly.github.io/pub/STABLE_KDD2022.pdf)
