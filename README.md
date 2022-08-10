@@ -7,6 +7,13 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **Analyzing Data-Centric Properties for Contrastive Learning on Graphs** [[paper]](https://arxiv.org/pdf/2208.02810.pdf)
+1. [KDD 2022] **Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries** [[paper]](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD22-Liu-et-al-KG-Transformer.pdf)
+1. [arXiv 2022] **Generative Subgraph Contrast for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2207.11996.pdf)
+1. [IJCAI 2022] **Graph Masked Autoencoder Enhanced Predictor for Neural Architecture Search** [[paper]](https://www.ijcai.org/proceedings/2022/0432.pdf)
+1. [IJCAI 2022] **Proximity Enhanced Graph Neural Networks with Channel Contrast** [[paper]](https://www.ijcai.org/proceedings/2022/0340.pdf)
+1. [IJCAI 2022] **Rethinking the Promotion Brought by Contrastive Learning to Semi-Supervised Node Classification** [[paper]](https://www.ijcai.org/proceedings/2022/0395.pdf)
+1. [IPM 2022] **HCNA: Hyperbolic Contrastive Learning Framework for Self-Supervised Network Alignment** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001315)
 1. [arXiv 2022] **3D Equivariant Molecular Graph Pretraining** [[paper]](https://arxiv.org/pdf/2207.08824.pdf)
 1. [arXiv 2022] **Unified 2D and 3D Pre-Training of Molecular Representations** [[paper]](https://arxiv.org/pdf/2207.08806.pdf)
 1. [arXiv 2022] **Does GNN Pretraining Help Molecular Representation?** [[paper]](https://arxiv.org/pdf/2207.06010.pdf)
