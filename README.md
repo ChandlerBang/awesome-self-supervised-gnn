@@ -7,6 +7,9 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [KDD 2022] **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539422)
+1. [KDD 2022] **Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539324)
+1. [arXiv 2022] **Deep Contrastive Multiview Network Embedding** [[paper]](https://sxkdz.github.io/files/publications/CIKM/CREME/CREME.pdf)
 1. [arXiv 2022] **Analyzing Data-Centric Properties for Contrastive Learning on Graphs** [[paper]](https://arxiv.org/pdf/2208.02810.pdf)
 1. [KDD 2022] **Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries** [[paper]](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD22-Liu-et-al-KG-Transformer.pdf)
 1. [arXiv 2022] **Generative Subgraph Contrast for Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2207.11996.pdf)
