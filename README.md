@@ -10,7 +10,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [arXiv 2022] **Heterogeneous Graph Masked Autoencoders** [[paper]](https://arxiv.org/pdf/2208.09957.pdf)
 1. [arXiv 2022] **KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion** [[paper]](https://arxiv.org/pdf/2208.07622.pdf)
 1. [arXiv 2022] **R\'enyiCL: Contrastive Representation Learning with Skew R\'enyi Divergence** [[paper]](https://arxiv.org/pdf/2208.06270.pdf)
-
+1. [TNNLS 2022] **Prototypical Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2106.09645.pdf)
 1. [KDD 2022] **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539422)
 1. [KDD 2022] **Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539324)
 1. [arXiv 2022] **Deep Contrastive Multiview Network Embedding** [[paper]](https://sxkdz.github.io/files/publications/CIKM/CREME/CREME.pdf)
