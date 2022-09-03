@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [Information Sciences 2022] **Self-Supervised Graph Representation Learning via Positive Mining** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522009495)
 1. [arXiv 2022] **Heterogeneous Graph Masked Autoencoders** [[paper]](https://arxiv.org/pdf/2208.09957.pdf)
 1. [arXiv 2022] **KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion** [[paper]](https://arxiv.org/pdf/2208.07622.pdf)
 1. [arXiv 2022] **R\'enyiCL: Contrastive Representation Learning with Skew R\'enyi Divergence** [[paper]](https://arxiv.org/pdf/2208.06270.pdf)
