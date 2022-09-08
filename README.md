@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Year 2022
+1. [arXiv 2022] **XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2209.02544)[[code]](https://github.com/Coder-Yu/SELFRec)
 1. [CIKM 2022] **Relational Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2208.10493.pdf)[[code]](https://github.com/Namkyeong/RGRL)
 1. [Information Sciences 2022] **Self-Supervised Graph Representation Learning via Positive Mining** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522009495)
 1. [arXiv 2022] **Heterogeneous Graph Masked Autoencoders** [[paper]](https://arxiv.org/pdf/2208.09957.pdf)
@@ -87,7 +88,7 @@ We will try to make this list updated. If you found any error or any missed pape
 43. [arXiv 2022] **MVGCNMDA: Multi-view Graph Augmentation Convolutional Network for Uncovering Disease-Related Microbes** [[paper]](https://link.springer.com/article/10.1007/s12539-022-00514-2)
 44. [arXiv 2022] **CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data** [[paper]](https://arxiv.org/pdf/2204.04303.pdf)
 45. [arXiv 2022] **Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation** [[paper]](https://arxiv.org/pdf/2204.05104.pdf)
-46. [arXiv 2022] **Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation** [[paper]](https://www.researchgate.net/profile/Junliang-Yu/publication/359788233_Are_Graph_Augmentations_Necessary_Simple_Graph_Contrastive_Learning_for_Recommendation/links/624e802ad726197cfd426f81/Are-Graph-Augmentations-Necessary-Simple-Graph-Contrastive-Learning-for-Recommendation.pdf)
+46. [SIGIR 2022] **Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2112.08679)[[code]](https://github.com/Coder-Yu/SELFRec)
 47. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
 48. [arXiv 2022] **Augmentation-Free Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04874)
 49. [TCybern 2022] **Link-Information Augmented Twin Autoencoders for Network Denoising** [[paper]](https://ieeexplore.ieee.org/abstract/document/9745753)
@@ -143,7 +144,6 @@ We will try to make this list updated. If you found any error or any missed pape
 3. [arXiv 2021] **Multilayer Graph Contrastive Clustering Network** [[paper]](https://arxiv.org/pdf/2112.14021.pdf)
 3. [arXiv 2021] **Graph Representation Learning via Contrasting Cluster Assignments** [[paper]](https://arxiv.org/pdf/2112.07934.pdf)
 3. [arXiv 2021] **Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2112.08830.pdf)
-3. [arXiv 2021] **Graph Augmentation-Free Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/pdf/2112.08679.pdf)
 3. [arXiv 2021] **Bayesian Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2112.07823.pdf)
 3. [arXiv 2021] **TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning** [[paper]](https://arxiv.org/pdf/2112.03587.pdf)
 26. [arXiv 2021] **Graph Communal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2110.14863.pdf)
