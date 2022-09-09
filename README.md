@@ -4,9 +4,13 @@
 
 This repository contains a list of papers on the **Self-supervised Learning on Graph Neural Networks (GNNs)**, we categorize them based on their published years.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
+We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2022
+1. [arXiv 2022] **Contrastive Learning with Heterogeneous Graph Attention Networks on Short Text Classification** [[paper]](https://dro.dur.ac.uk/36856/1/36856.pdf)
+1. [arXiv 2022] **Features Based Adaptive Augmentation for Graph Contrastive Learning** [[paper]](https://arxiv.org/ftp/arxiv/papers/2207/2207.01792.pdf)
+1. [TKDE 2022] **GCCAD: Graph Contrastive Learning for Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9870034)
+1. [JCIM 2022] **SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning** [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00521)
 1. [arXiv 2022] **XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/abs/2209.02544)[[code]](https://github.com/Coder-Yu/SELFRec)
 1. [CIKM 2022] **Relational Self-Supervised Learning on Graphs** [[paper]](https://arxiv.org/pdf/2208.10493.pdf)[[code]](https://github.com/Namkyeong/RGRL)
 1. [Information Sciences 2022] **Self-Supervised Graph Representation Learning via Positive Mining** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522009495)
