@@ -7,6 +7,9 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2022
+1. [ICAAN 2022] **Knowledge-Aware Self-supervised Graph Representation Learning for Recommendation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_35)
+1. [arXiv 2022] **Self-supervised Representation Learning on Electronic Health Records with Graph Kernel Infomax** [[paper]](https://arxiv.org/pdf/2209.00655.pdf)
+1. [arXiv 2022] **Disentangled Graph Contrastive Learning for Review-based Recommendation** [[paper]](https://arxiv.org/pdf/2209.01524.pdf)
 1. [arXiv 2022] **Contrastive Learning with Heterogeneous Graph Attention Networks on Short Text Classification** [[paper]](https://dro.dur.ac.uk/36856/1/36856.pdf)
 1. [arXiv 2022] **Features Based Adaptive Augmentation for Graph Contrastive Learning** [[paper]](https://arxiv.org/ftp/arxiv/papers/2207/2207.01792.pdf)
 1. [TKDE 2022] **GCCAD: Graph Contrastive Learning for Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9870034)
