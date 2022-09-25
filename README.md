@@ -7,6 +7,15 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2022
+1. [EDBT 2022] **Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning** [[paper]](https://openproceedings.org/2023/conf/edbt/paper-193.pdf)
+1. [arXiv 2022] **Adversarial Cross-View Disentangled Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2209.07699.pdf)
+1. [Neurocomputing 2022] **Motifs-based Recommender System via Hypergraph Convolution and Contrastive Learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231222011948)
+1. [TNNLS 2022] **Graph Representation Learning for Large-Scale Neuronal Morphological Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9895206)
+1. [ECML-PKDD 2022] **Self-supervised Graph Learning with Segmented Graph Channels** [[paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_216.pdf)
+1. [ECML-PKDD 2022] **Graph Contrastive Learning with Adaptive Augmentation for Recommendation** [[paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_650.pdf)
+1. [CIKM 2022] **Contrastive Knowledge Graph Error Detection** [[paper]](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Qinggang_CIKM2022.pdf)
+1. [TKDE 2022] **Disentangled Graph Contrastive Learning With Independence Promotion** [[paper]](https://ieeexplore.ieee.org/abstract/document/9893319)
+1. [ECML-PKDD 2022] **Supervised Graph Contrastive Learning for Few-shot Node Classification** [[paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_764.pdf)
 1. [Information Sciences 2022] **Graph Prototypical Contrastive Learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S002002552201057X)
 1. [ICAAN 2022] **Knowledge-Aware Self-supervised Graph Representation Learning for Recommendation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_35)
 1. [arXiv 2022] **Self-supervised Representation Learning on Electronic Health Records with Graph Kernel Infomax** [[paper]](https://arxiv.org/pdf/2209.00655.pdf)
