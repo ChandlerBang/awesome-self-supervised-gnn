@@ -7,9 +7,9 @@ This repository contains a list of papers on the **Self-supervised Learning on G
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2022
+1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
 1. [arXiv 2022] **Heterogeneous Graph Contrastive Multi-view Learning** [[paper]](https://arxiv.org/pdf/2210.00248.pdf)
 1. [arXiv 2022] **Automated Graph Self-supervised Learning via Multi-teacher Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2210.02099.pdf)
-1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
 1. [arXiv 2022] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf)
 1. [arXiv 2022] **Prompt Tuning for Graph Neural Networks** [[paper]](https://web10.arxiv.org/pdf/2209.15240.pdf)
 1. [arXiv 2022] **Improving Molecular Pretraining with Complementary Featurizations** [[paper]](https://arxiv.org/pdf/2209.15101.pdf)
