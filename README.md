@@ -9,6 +9,7 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [NeurIPS 2022] **Uncovering the Structural Fairness in Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2210.03011.pdf)
  1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
  1. [arXiv 2022] **Heterogeneous Graph Contrastive Multi-view Learning** [[paper]](https://arxiv.org/pdf/2210.00248.pdf)
  1. [arXiv 2022] **Automated Graph Self-supervised Learning via Multi-teacher Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2210.02099.pdf)
