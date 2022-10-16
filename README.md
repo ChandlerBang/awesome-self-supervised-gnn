@@ -9,6 +9,11 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [NeurIPS 2022] **Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative** [[paper]](https://arxiv.org/abs/2210.03801) [[code]](https://github.com/weitianxin/HyperGCL)
+ 1. [ICCL 2022] **Modeling Intra-and Inter-Modal Relations: Hierarchical Graph Contrastive Learning for Multimodal Sentiment Analysis** [[paper]](https://aclanthology.org/2022.coling-1.622.pdf)
+ 1. [TKDE 2022] **Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2210.05498.pdf)
+ 1. [MM 2022] **Simple Self-supervised Multiplex Graph Representation Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547949)
+ 1. [TMM 2022] **Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt** [[paper]](https://ieeexplore.ieee.org/abstract/document/9914670)
  1. [NeurIPS 2022] **Uncovering the Structural Fairness in Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2210.03011.pdf)
  1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
  1. [arXiv 2022] **Heterogeneous Graph Contrastive Multi-view Learning** [[paper]](https://arxiv.org/pdf/2210.00248.pdf)
