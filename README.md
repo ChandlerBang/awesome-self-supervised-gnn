@@ -287,7 +287,7 @@
  32. [KDD 2020] **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.** [[pdf]](https://arxiv.org/abs/2006.09963) [[code]](https://github.com/THUDM/GCC) 
  34. :fire:[ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
  35. :fire:[ICLR 2020] **Strategies for Pre-training Graph Neural Networks.** [[paper]](https://arxiv.org/abs/1905.12265) [[code]](https://github.com/snap-stanford/pretrain-gnns)
- 36. [AAAI 2020] **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.** [[paper]](https://arxiv.org/abs/1902.11038)
+ 36. :fire:[AAAI 2020] **Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels.** [[paper]](https://arxiv.org/abs/1902.11038)
  1. [ICDM 2020] **Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/2009.10273) [[code]](https://github.com/yzjiao/Subg-Con)
  
  ## Year 2019
