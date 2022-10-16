@@ -293,7 +293,7 @@
  1. [ICLR 2019 Workshop] **Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference.** [[paper]](https://arxiv.org/abs/1905.06018)
  1. [ICLR 2019 workshop] **Pre-Training Graph Neural Networks for Generic Structural Feature Extraction.** [[paper]](https://arxiv.org/abs/1905.13728)
  1. [Arxiv 2019] **Heterogeneous Deep Graph Infomax** [[paper]](https://arxiv.org/abs/1911.08538) [[code]](https://github.com/YuxiangRen/Heterogeneous-Deep-Graph-Infomax)
- 1. [ICLR 2019] **Deep Graph Informax.** [[paper]](https://arxiv.org/abs/1809.10341) [[code]](https://github.com/PetarV-/DGI)
+ 1. :fire:[ICLR 2019] **Deep Graph Informax.** [[paper]](https://arxiv.org/abs/1809.10341) [[code]](https://github.com/PetarV-/DGI)
  
  
  ## Other related papers
