@@ -6,7 +6,7 @@
  
  We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
  
- Note: :fire: indicates the paper is extensively cited (e.g., >80 citations). The code is provied in `get_hot.py`.
+ Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
  1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
