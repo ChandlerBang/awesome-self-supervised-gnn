@@ -9,6 +9,15 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [CIKM 2022] **Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469)
+ 1. [CIKM 2022] **Towards Self-supervised Learning on Graphs with Heterophily** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557478)
+ 1. [ISWC 2022] **HCL: Improving Graph Representation with Hierarchical Contrastive Learning** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_7)
+ 1. [CIKM 2022] **Cognize Yourself: Graph Pre-Training via Core Graph Cognizing and Differentiating** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557259)
+ 1. [CIKM 2022] **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557228)
+ 1. [CIKM 2022] **Look Twice as Much as You Say: Scene Graph Contrastive Learning for Self-Supervised Image Caption Generation** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557382)
+ 1. [CIKM 2022] **Malicious Repositories Detection with Adversarial Heterogeneous Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557384)
+ 1. [ICEBE 2022] **Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering** [[paper]](https://conferences.computer.org/icebe/2022/icebe2022-proceedings/Knowledge%20Graph%20Completion%20based%20on%20Hyperbolic%20Graph%20Contrastive%20Attention%20Network.pdf)
+ 1. [arXiv 2022] **Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering** [[paper]](https://arxiv.org/pdf/2210.10462.pdf)
  1. [NeurIPS 2022] **Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative** [[paper]](https://arxiv.org/abs/2210.03801) [[code]](https://github.com/weitianxin/HyperGCL)
  1. [ICCL 2022] **Modeling Intra-and Inter-Modal Relations: Hierarchical Graph Contrastive Learning for Multimodal Sentiment Analysis** [[paper]](https://aclanthology.org/2022.coling-1.622.pdf)
  1. [TKDE 2022] **Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2210.05498.pdf)
