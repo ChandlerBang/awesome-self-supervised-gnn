@@ -9,6 +9,11 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [arXiv 2022] **Benchmark of Self-supervised Graph Neural Networks** [[paper]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/116441/master_Wang_Haishan_2022.pdf?sequence=2)
+ 1. [arXiv 2022] **Line Graph Contrastive Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2210.13795.pdf)
+ 1. [TDSC 2022] **FewM-HGCL: Few-Shot Malware Variants Detection Via Heterogeneous Graph Contrastive Learning** [[paper]](https://www.computer.org/csdl/journal/tq/5555/01/09928211/1HJuUzzFey4)
+ 1. [arXiv 2022] **Self-supervised Graph-based Point-of-interest Recommendation** [[paper]](https://arxiv.org/pdf/2210.12506.pdf)
+ 1. [IJMLC 2022] **Hybrid sampling-based contrastive learning for imbalanced node classification** [[paper]](https://link.springer.com/article/10.1007/s13042-022-01677-6)
  1. [CIKM 2022] **Temporality-and Frequency-aware Graph Contrastive Learning for Temporal Network** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557469)
  1. [CIKM 2022] **Towards Self-supervised Learning on Graphs with Heterophily** [[paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557478)
  1. [ISWC 2022] **HCL: Improving Graph Representation with Hierarchical Contrastive Learning** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_7)
