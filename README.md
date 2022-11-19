@@ -9,6 +9,17 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [TII 2022] **Semi-supervised machine fault diagnosis fusing unsupervised graph contrastive learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9944187)
+ 1. [KBS 2022] **SMGCL: Semi-supervised Multi-view Graph Contrastive Learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122012163)
+ 1. [arXiv 2022] **Unsupervised Graph Contrastive Learning with Data Augmentation for Malware Classification** [[paper]](https://www.researchgate.net/profile/Yun-Gao-48/publication/365275847_Unsupervised_Graph_Contrastive_Learning_with_Data_Augmentation_for_Malware_Classification/links/636cec632f4bca7fd04b9a26/Unsupervised-Graph-Contrastive-Learning-with-Data-Augmentation-for-Malware-Classification.pdf)
+ 1. [IJCRS 2022] **Multi-scale Subgraph Contrastive Learning for Link Prediction** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21244-4_16)
+ 1. [arXiv 2022] **Flaky Performances when Pretraining on Relational Databases** [[paper]](https://arxiv.org/pdf/2211.05213.pdf)
+ 1. [arXiv 2022] **GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection** [[paper]](https://arxiv.org/pdf/2211.04208.pdf)
+ 1. [ATKDD 2022] **Ada-MIP: Adaptive Self-supervised Graph Representation Learning via Mutual Information and Proximity Optimization** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3568165)
+ 1. [arXiv 2022] **Graph Contrastive Learning with Implicit Augmentations** [[paper]](https://arxiv.org/pdf/2211.03710.pdf)
+ 1. [Information Sciences 2022] **Contrastive Graph Neural Network-based Camouflaged Fraud Detector** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522011926)
+ 1. [arXiv 2022] **DyG2Vec: Representation Learning for Dynamic Graphs with Self-Supervision** [[paper]](https://arxiv.org/pdf/2210.16906.pdf)
+ 1. [arXiv 2022] **Federated Graph Representation Learning using Self-Supervision** [[paper]](https://arxiv.org/pdf/2210.15120.pdf)
  1. [arXiv 2022] **Benchmark of Self-supervised Graph Neural Networks** [[paper]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/116441/master_Wang_Haishan_2022.pdf?sequence=2)
  1. [arXiv 2022] **Line Graph Contrastive Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2210.13795.pdf)
  1. [TDSC 2022] **FewM-HGCL: Few-Shot Malware Variants Detection Via Heterogeneous Graph Contrastive Learning** [[paper]](https://www.computer.org/csdl/journal/tq/5555/01/09928211/1HJuUzzFey4)
