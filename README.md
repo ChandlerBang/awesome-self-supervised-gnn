@@ -9,6 +9,12 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [arXiv 2022] **Relation-dependent Contrastive Learning with Cluster Sampling for Inductive Relation Prediction** [[paper]](https://arxiv.org/pdf/2211.12266.pdf)
+ 1. [arXiv 2022] **Relational Symmetry based Knowledge Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2211.10738.pdf)
+ 1. [arXiv 2022] **Towards Generalizable Graph Contrastive Learning: An Information Theory Perspective** [[paper]](https://arxiv.org/pdf/2211.10929.pdf)
+ 1. [arXiv 2022] **Can Single-Pass Contrastive Learning Work for Both Homophilic and Heterophilic Graph?** [[paper]](https://arxiv.org/pdf/2211.10890.pdf)
+ 1. [SIGSPATIAL 2022] **When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting?** [[paper]](http://urban-computing.com/pdf/STGCL_SIGSPATIAL_22.pdf)
+ 1. [Scientific Reports 2022] **Deep graph level anomaly detection with contrastive learning** [[paper]](https://www.nature.com/articles/s41598-022-22086-3)
  1. [TII 2022] **Semi-supervised machine fault diagnosis fusing unsupervised graph contrastive learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/9944187)
  1. [KBS 2022] **SMGCL: Semi-supervised Multi-view Graph Contrastive Learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122012163)
  1. [arXiv 2022] **Unsupervised Graph Contrastive Learning with Data Augmentation for Malware Classification** [[paper]](https://www.researchgate.net/profile/Yun-Gao-48/publication/365275847_Unsupervised_Graph_Contrastive_Learning_with_Data_Augmentation_for_Malware_Classification/links/636cec632f4bca7fd04b9a26/Unsupervised-Graph-Contrastive-Learning-with-Data-Augmentation-for-Malware-Classification.pdf)
