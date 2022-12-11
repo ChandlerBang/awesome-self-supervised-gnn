@@ -9,6 +9,15 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [arXiv 2022] **Self-supervised Graph Representation Learning for Black Market Account Detection** [[paper]](https://arxiv.org/pdf/2212.02679.pdf)
+ 1. [arXiv 2022] **Contrastive Deep Graph Clustering with Learnable Augmentation** [[paper]](https://arxiv.org/pdf/2212.03559.pdf)
+ 1. [arXiv 2022] **Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View** [[paper]](https://arxiv.org/pdf/2212.00535.pdf)
+ 1. [arXiv 2022] **Self Supervised Clustering of Traffic Scenes using Graph Representations** [[paper]](https://arxiv.org/pdf/2211.15508.pdf)
+ 1. [arXiv 2022] **Graph Contrastive Learning for Materials** [[paper]](https://arxiv.org/pdf/2211.13408.pdf)
+ 1. [arXiv 2022] **Link Prediction with Non-Contrastive Learning** [[paper]](https://arxiv.org/pdf/2211.14394.pdf)
+ 1. [IJMIR 2022] **TCKGE: Transformers with contrastive learning for knowledge graph embedding** [[paper]](https://link.springer.com/article/10.1007/s13735-022-00256-3)
+ 1. [arXiv 2022] **Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating** [[paper]](https://arxiv.org/pdf/2211.14065.pdf)
+ 1. [Neural Networks 2022] **Unsupervised graph-level representation learning with hierarchical contrasts** [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608022004609)
  1. [arXiv 2022] **Relation-dependent Contrastive Learning with Cluster Sampling for Inductive Relation Prediction** [[paper]](https://arxiv.org/pdf/2211.12266.pdf)
  1. [arXiv 2022] **Relational Symmetry based Knowledge Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2211.10738.pdf)
  1. [arXiv 2022] **Towards Generalizable Graph Contrastive Learning: An Information Theory Perspective** [[paper]](https://arxiv.org/pdf/2211.10929.pdf)
