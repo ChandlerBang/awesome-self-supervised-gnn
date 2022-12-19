@@ -180,7 +180,7 @@
  63. [arXiv 2022] **Data Augmentation for Deep Graph Learning: A Survey** [[paper]](https://arxiv.org/abs/2202.08235)
  64. [arXiv 2022] **Adversarial Graph Contrastive Learning with Information Regularization** [[paper]](https://arxiv.org/pdf/2202.06491.pdf)
  65. [arXiv 2022] **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation** [[paper]](https://arxiv.org/pdf/2202.03104.pdf)
- 66. [arXiv 2022] **Graph Self-supervised Learning with Accurate Discrepancy Learning** [[paper]](https://arxiv.org/pdf/2202.02989.pdf)
+ 66. [NeurIPS 2022] **Graph Self-supervised Learning with Accurate Discrepancy Learning** [[paper]](https://arxiv.org/pdf/2202.02989.pdf)
  67. [arXiv 2022] **Learning Robust Representation through Graph Adversarial Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.13025.pdf)
  68. [arXiv 2022] **Self-supervised Graphs for Audio Representation Learning with Limited Labeled Data** [[paper]](https://arxiv.org/pdf/2202.00097.pdf)
  69. [arXiv 2022] **Link Prediction with Contextualized Self-Supervision** [[paper]](https://arxiv.org/pdf/2201.10069.pdf)
