@@ -9,6 +9,13 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
  ## Year 2022
+ 1. [arXiv 2022] **MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning** [[paper]](https://arxiv.org/pdf/2212.10614.pdf)
+ 1. [arXiv 2022] **Toward Improved Generalization: Meta Transfer of Self-supervised Knowledge on Graphs** [[paper]](https://arxiv.org/pdf/2212.08217.pdf)
+ 1. [arXiv 2022] **Coarse-to-Fine Contrastive Learning on Graphs** [[paper]](https://arxiv.org/pdf/2212.06423.pdf)
+ 1. [arXiv 2022] **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2212.07035.pdf)
+ 1. [arXiv 2022] **Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information** [[paper]](https://arxiv.org/pdf/2212.05478.pdf)
+ 1. [arXiv 2022] **Localized Contrastive Learning on Graphs** [[paper]](https://arxiv.org/pdf/2212.04604.pdf)
+ 1. [arXiv 2022] **Alleviating neighbor bias: augmenting graph self-supervise learning with structural equivalent positive samples** [[paper]](https://arxiv.org/pdf/2212.04365.pdf)
  1. [arXiv 2022] **Self-supervised Graph Representation Learning for Black Market Account Detection** [[paper]](https://arxiv.org/pdf/2212.02679.pdf)
  1. [arXiv 2022] **Contrastive Deep Graph Clustering with Learnable Augmentation** [[paper]](https://arxiv.org/pdf/2212.03559.pdf)
  1. [arXiv 2022] **Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View** [[paper]](https://arxiv.org/pdf/2212.00535.pdf)
