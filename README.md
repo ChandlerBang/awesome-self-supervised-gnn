@@ -9,12 +9,15 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
-1. [AAAI 2022] **Spectral Feature Augmentation for Graph Contrastive Learning and Beyond** [[paper]](https://arxiv.org/abs/2212.01026)
-1. [Entropy 2022] **Self-Supervised Node Classification with Strategy and Actively Selected Labeled Set** [[paper]](https://urldefense.com/v3/__https://scholar.google.com/scholar_url?url=https:**Awww.mdpi.com*1099-4300*25*1*30*pdf&hl=en&sa=X&d=13649462741514245070&ei=66yqY9q-NY_mmgHdka7oCw&scisig=AAGBfm0m2E6wg_90swKhBWYDrZsXMBr2kA&oi=scholaralrt&hist=Pv-V2igAAAAJ:16610178827432183357:AAGBfm3PSUTRAat5lSIOYWJJQSKiKvjk4g&html=&pos=0&folt=cit__;Ly8vLy8vLw!!KwNVnqRv!FbRTWxTuNHDzvvuiJFFzysRQQ3C08EMs3qJTdLHxTA4E2WK7FjMv32fbi6T1irhYspBlmsafx0xexY4FKuao4dHXv3q7hw$)
+1. [BIB 2023] **CasANGCL: pre-training and fine-tuning model based on cascaded attention network and graph contrastive learning for molecular property prediction** [[paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac566/6966532)
+1. [AAAI 2023] **Spectral Feature Augmentation for Graph Contrastive Learning and Beyond** [[paper]](https://arxiv.org/abs/2212.01026)
+1. [Entropy 2023] **Self-Supervised Node Classification with Strategy and Actively Selected Labeled Set** [[paper]](https://urldefense.com/v3/__https://scholar.google.com/scholar_url?url=https:**Awww.mdpi.com*1099-4300*25*1*30*pdf&hl=en&sa=X&d=13649462741514245070&ei=66yqY9q-NY_mmgHdka7oCw&scisig=AAGBfm0m2E6wg_90swKhBWYDrZsXMBr2kA&oi=scholaralrt&hist=Pv-V2igAAAAJ:16610178827432183357:AAGBfm3PSUTRAat5lSIOYWJJQSKiKvjk4g&html=&pos=0&folt=cit__;Ly8vLy8vLw!!KwNVnqRv!FbRTWxTuNHDzvvuiJFFzysRQQ3C08EMs3qJTdLHxTA4E2WK7FjMv32fbi6T1irhYspBlmsafx0xexY4FKuao4dHXv3q7hw$)
  
  ## Year 2022
  1. [NeurIPS 2022] **Generalized Laplacian Eigenmaps** [[paper]](https://openreview.net/forum?id=HjicdpP-Nth)
  1. [KDD 2022] **COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539425)
+ 1. [ITBE 2022] **Contrastive Multi-view Composite Graph Convolutional Networks Based on Contribution Learning for Autism Spectrum Disorder Classification** [[paper]](https://ieeexplore.ieee.org/abstract/document/9999336)
+ 1. [IEEE Access 2022] **ROME: A Graph Contrastive Multi-view Framework from Hyperbolic Angular Space for MOOCs Recommendation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10001755)
  1. [arXiv 2022] **Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples** [[paper]](https://arxiv.org/pdf/2212.13847.pdf)
  1. [arXiv 2022] **MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning** [[paper]](https://arxiv.org/pdf/2212.10614.pdf)
  1. [arXiv 2022] **Toward Improved Generalization: Meta Transfer of Self-supervised Knowledge on Graphs** [[paper]](https://arxiv.org/pdf/2212.08217.pdf)
