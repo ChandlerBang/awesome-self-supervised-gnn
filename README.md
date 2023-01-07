@@ -13,6 +13,7 @@
 1. [Entropy 2022] **Self-Supervised Node Classification with Strategy and Actively Selected Labeled Set** [[paper]](https://urldefense.com/v3/__https://scholar.google.com/scholar_url?url=https:**Awww.mdpi.com*1099-4300*25*1*30*pdf&hl=en&sa=X&d=13649462741514245070&ei=66yqY9q-NY_mmgHdka7oCw&scisig=AAGBfm0m2E6wg_90swKhBWYDrZsXMBr2kA&oi=scholaralrt&hist=Pv-V2igAAAAJ:16610178827432183357:AAGBfm3PSUTRAat5lSIOYWJJQSKiKvjk4g&html=&pos=0&folt=cit__;Ly8vLy8vLw!!KwNVnqRv!FbRTWxTuNHDzvvuiJFFzysRQQ3C08EMs3qJTdLHxTA4E2WK7FjMv32fbi6T1irhYspBlmsafx0xexY4FKuao4dHXv3q7hw$)
  
  ## Year 2022
+ 1. [KDD 2022] **COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539425)
  1. [arXiv 2022] **Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples** [[paper]](https://arxiv.org/pdf/2212.13847.pdf)
  1. [arXiv 2022] **MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning** [[paper]](https://arxiv.org/pdf/2212.10614.pdf)
  1. [arXiv 2022] **Toward Improved Generalization: Meta Transfer of Self-supervised Knowledge on Graphs** [[paper]](https://arxiv.org/pdf/2212.08217.pdf)
