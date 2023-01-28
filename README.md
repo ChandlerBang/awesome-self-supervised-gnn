@@ -9,6 +9,8 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [TNNLS 2023] **Graph Representation Learning With Adaptive Metric** [[paper]](https://ieeexplore.ieee.org/abstract/document/10025823)
+1. [RAL 2023] **Self-Supervised Local Topology Representation for Random Cluster Matching** [[paper]](https://ieeexplore.ieee.org/abstract/document/10021967)
 1. [KBS 2023] **CrysGNN: Distilling pre-trained knowledge to enhance property prediction for crystalline materials** [[paper]](https://arxiv.org/pdf/2301.05852.pdf)
 1. [Entropy 2023] **A Semantic-Enhancement-Based Social Network User-Alignment Algorithm** [[paper]](https://www.mdpi.com/1099-4300/25/1/172)
 1. [KBS 2023] **Cross-view temporal graph contrastive learning for session-based recommendation** [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123000540)
