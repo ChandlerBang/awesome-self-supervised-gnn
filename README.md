@@ -9,6 +9,18 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [WBD 2023] **Mixed-Order Heterogeneous Graph Pre-training for Cold-Start Recommendation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_14)
+1. [arXiv 2023] **Explainable Action Prediction through Self-Supervision on Scene Graphs** [[paper]](https://arxiv.org/pdf/2302.03477.pdf)
+1. [arXiv 2023] **Spectral Augmentations for Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2302.02909.pdf)
+1. [RS 2023] **Representing Spatial Data with Graph Contrastive Learning** [[paper]](https://urldefense.com/v3/__https://scholar.google.com/scholar_url?url=https:**Awww.mdpi.com*2072-4292*15*4*880*pdf&hl=en&sa=X&d=18081949848644790374&ei=UtHkY-wUjdbJBK-AnIgN&scisig=AAGBfm2HRbUL2s5kW_fO96HIgBt-0lesJg&oi=scholaralrt&hist=Pv-V2igAAAAJ:16610178827432183357:AAGBfm3PSUTRAat5lSIOYWJJQSKiKvjk4g&html=&pos=1&folt=cit__;Ly8vLy8vLw!!KwNVnqRv!DcYtDY-xLzHkhx2yQ32kw_CetJ1VrPiy0H9Hilie6oEU0a9OMbDAWoV9kq6mhcDPope5FTQwyDvFJ1YT8B6R9su2t7P1Rg$)
+1. [ACLF 2023] **KE-GCL: Knowledge Enhanced Graph Contrastive Learning for Commonsense Question Answering** [[paper]](https://aclanthology.org/2022.findings-emnlp.6.pdf)
+1. [TNNLS 2023] **GRLC: Graph Representation Learning With Constraints** [[paper]](https://ieeexplore.ieee.org/abstract/document/10036344)
+1. [ESA 2023] **Contrastive graph clustering with adaptive filter** [[paper]](https://www.sciencedirect.com/science/article/pii/S095741742300146X)
+1. [arXiv 2023] **Biomedical Interaction Prediction with Adaptive Line Graph Contrastive Learning** [[paper]](https://www.mdpi.com/2227-7390/11/3/732)
+1. [arXiv 2023] **Affinity Uncertainty-based Hard Negative Mining in Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2301.13340.pdf)
+1. [arXiv 2023] **Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking** [[paper]](https://arxiv.org/pdf/2301.12458.pdf)
+1. [ACM Trans. Web 2023] **Contrastive Graph Similarity Networks** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580511)
+1. [ICBD 2023] **Predictive Masking for Semi-Supervised Graph Contrastive Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10020970)
 1. [TNNLS 2023] **Graph Representation Learning With Adaptive Metric** [[paper]](https://ieeexplore.ieee.org/abstract/document/10025823)
 1. [RAL 2023] **Self-Supervised Local Topology Representation for Random Cluster Matching** [[paper]](https://ieeexplore.ieee.org/abstract/document/10021967)
 1. [KBS 2023] **CrysGNN: Distilling pre-trained knowledge to enhance property prediction for crystalline materials** [[paper]](https://arxiv.org/pdf/2301.05852.pdf)
