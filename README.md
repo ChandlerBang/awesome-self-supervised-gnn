@@ -9,6 +9,7 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+ 1. [ICLR 2023] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf)
 1. [WBD 2023] **Mixed-Order Heterogeneous Graph Pre-training for Cold-Start Recommendation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_14)
 1. [arXiv 2023] **Explainable Action Prediction through Self-Supervision on Scene Graphs** [[paper]](https://arxiv.org/pdf/2302.03477.pdf)
 1. [arXiv 2023] **Spectral Augmentations for Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2302.02909.pdf)
@@ -96,7 +97,6 @@
  1. [NeurIPS 2022] **Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum** [[paper]](https://arxiv.org/pdf/2210.02330.pdf)
  1. [arXiv 2022] **Heterogeneous Graph Contrastive Multi-view Learning** [[paper]](https://arxiv.org/pdf/2210.00248.pdf)
  1. [arXiv 2022] **Automated Graph Self-supervised Learning via Multi-teacher Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2210.02099.pdf)
- 1. [arXiv 2022] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf)
  1. [arXiv 2022] **Prompt Tuning for Graph Neural Networks** [[paper]](https://web10.arxiv.org/pdf/2209.15240.pdf)
  1. [arXiv 2022] **Improving Molecular Pretraining with Complementary Featurizations** [[paper]](https://arxiv.org/pdf/2209.15101.pdf)
  1. [arXiv 2022] **Graph Soft-Contrastive Learning via Neighborhood Ranking** [[paper]](https://arxiv.org/pdf/2209.13964.pdf)
