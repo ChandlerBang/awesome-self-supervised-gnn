@@ -9,6 +9,14 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [Nature Communications Chemistry] **Hierarchical Molecular Graph Self-Supervised Learning for property prediction** [[paper]](https://www.nature.com/articles/s42004-023-00825-5)
+1. [arXiv 2023] **Wiener Graph Deconvolutional Network Improves Graph Self-Supervised Learning** [[paper]](https://www.researchgate.net/profile/Jia-Li-127/publication/368543822_Wiener_Graph_Deconvolutional_Network_Improves_Graph_Self-Supervised_Learning/links/63edebc419130a1a4a830593/Wiener-Graph-Deconvolutional-Network-Improves-Graph-Self-Supervised-Learning.pdf)
+1. [arXiv 2023] **Heterogeneous Social Event Detection via Hyperbolic Graph Representations** [[paper]](https://arxiv.org/pdf/2302.10362.pdf)
+1. [arXiv 2023] **LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/pdf/2302.08191.pdf)
+1. [arXiv 2023] **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2302.08043.pdf)
+1. [Pattern Recognition] **Dual-Channel Graph Contrastive Learning for Self-Supervised Graph-Level Representation Learning** [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320323001486)
+1. [NCA 2023] **Self-supervised contrastive learning for heterogeneous graph based on multi-pretext tasks** [[paper]](https://link.springer.com/article/10.1007/s00521-023-08234-4)
+1. [arXiv 2023] **STERLING: Synergistic Representation Learning on Bipartite Graphs** [[paper]](https://arxiv.org/pdf/2302.05428.pdf)
  1. [ICLR 2023] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf)
 1. [WBD 2023] **Mixed-Order Heterogeneous Graph Pre-training for Cold-Start Recommendation** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_14)
 1. [arXiv 2023] **Explainable Action Prediction through Self-Supervision on Scene Graphs** [[paper]](https://arxiv.org/pdf/2302.03477.pdf)
