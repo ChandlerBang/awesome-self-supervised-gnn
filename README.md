@@ -9,6 +9,15 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [TNNLS 2023] **Self-supervised Learning IoT Device Features with Graph Contrastive Neural Network for Device Classification in Social Internet of Things** [[paper]](https://ieeexplore.ieee.org/abstract/document/10059194)
+1. [TKDE 2023] **Feature-Level Deeper Self-Attention Network With Contrastive Learning for Sequential Recommendation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10059216)
+1. [AAAI 2023] **Recommend What to Cache: a Simple Self-supervised Graph-based Recommendation Framework for Edge Caching Network** [[paper]](https://arxiv.org/pdf/2302.14438.pdf)
+1. [arXiv 2023] **Self-Supervised Interest Transfer Network via Prototypical Contrastive Learning for Recommendation** [[paper]](https://arxiv.org/pdf/2302.14438.pdf)
+1. [arXiv 2023] **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning** [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
+1. [CIS 2023] **SimGRL: a simple self-supervised graph representation learning framework via triplets** [[paper]](https://link.springer.com/article/10.1007/s40747-023-00997-6)
+1. [WSDM 2023] **Self-Supervised Group Graph Collaborative Filtering for Group Recommendation** [[paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570400)
+1. [WSDM 2023] **S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking** [[paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570404)
+1. [WSDM 2023] **Heterogeneous Graph Contrastive Learning for Recommendation** [[paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570484)
 1. [Nature Communications Chemistry] **Hierarchical Molecular Graph Self-Supervised Learning for property prediction** [[paper]](https://www.nature.com/articles/s42004-023-00825-5)
 1. [arXiv 2023] **Wiener Graph Deconvolutional Network Improves Graph Self-Supervised Learning** [[paper]](https://www.researchgate.net/profile/Jia-Li-127/publication/368543822_Wiener_Graph_Deconvolutional_Network_Improves_Graph_Self-Supervised_Learning/links/63edebc419130a1a4a830593/Wiener-Graph-Deconvolutional-Network-Improves-Graph-Self-Supervised-Learning.pdf)
 1. [arXiv 2023] **Heterogeneous Social Event Detection via Hyperbolic Graph Representations** [[paper]](https://arxiv.org/pdf/2302.10362.pdf)
