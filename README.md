@@ -9,11 +9,11 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [Sensors 2023] **A Robust Automated Analog Circuits Classification Involving a Graph Neural Network and a Novel Data Augmentation Strategy** [[paper]](https://www.mdpi.com/1424-8220/23/6/2989)
 1. [arXiv 2023] **Contrastive knowledge integrated graph neural networks for Chinese medical text classification** [[paper]](https://www.sciencedirect.com/science/article/pii/S0952197623002415)
 1. [arXiv 2023] **CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network** [[paper]](https://arxiv.org/pdf/2303.06213.pdf)
 1. [arXiv 2023] **Contrastive Learning under Heterophily** [[paper]](https://arxiv.org/pdf/2303.06344.pdf)
 1. [arXiv 2023] **Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework** [[paper]](https://arxiv.org/pdf/2303.05231.pdf)
-1. [Sensors 2023] **A Robust Automated Analog Circuits Classification Involving a Graph Neural Network and a Novel Data Augmentation Strategy** [[paper]](https://www.mdpi.com/1424-8220/23/6/2989)
 1. [TNNLS 2023] **Self-supervised Learning IoT Device Features with Graph Contrastive Neural Network for Device Classification in Social Internet of Things** [[paper]](https://ieeexplore.ieee.org/abstract/document/10059194)
 1. [TKDE 2023] **Feature-Level Deeper Self-Attention Network With Contrastive Learning for Sequential Recommendation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10059216)
 1. [AAAI 2023] **Recommend What to Cache: a Simple Self-supervised Graph-based Recommendation Framework for Edge Caching Network** [[paper]](https://arxiv.org/pdf/2302.14438.pdf)
