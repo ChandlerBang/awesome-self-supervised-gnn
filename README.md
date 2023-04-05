@@ -9,6 +9,14 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [KBS 2023] **Class-homophilic-based data augmentation for improving graph neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S095070512300268X)
+1. [arXiv 2023] **When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!** [[paper]](https://arxiv.org/abs/2303.16458)
+1. [arXiv 2023] **Structural Imbalance Aware Graph Augmentation Learning** [[paper]](https://arxiv.org/pdf/2303.13757.pdf)
+1. [arXiv 2023] **Hybrid Augmented Automated Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2303.15182.pdf)
+1. [arXiv 2023] **Decoupling Graph Neural Network with Contrastive Learning for Fraud Detection** [[paper]](https://linmengsysu.github.io/slides/main.pdf)
+1. [arXiv 2023] **Data-Centric Learning from Unlabeled Graphs with Diffusion Model** [[paper]](https://arxiv.org/pdf/2303.10108.pdf)
+1. [TPAMI 2023] **Unsupervised Learning of Graph Matching With Mixture of Modes Via Discrepancy Minimization** [[paper]](https://ieeexplore.ieee.org/abstract/document/10073537)
+1. [arXiv 2023] **NESS: Learning Node Embeddings from Static SubGraphs** [[paper]](https://arxiv.org/pdf/2303.08958.pdf)
 1. [Sensors 2023] **A Robust Automated Analog Circuits Classification Involving a Graph Neural Network and a Novel Data Augmentation Strategy** [[paper]](https://www.mdpi.com/1424-8220/23/6/2989)
 1. [arXiv 2023] **Contrastive knowledge integrated graph neural networks for Chinese medical text classification** [[paper]](https://www.sciencedirect.com/science/article/pii/S0952197623002415)
 1. [arXiv 2023] **CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network** [[paper]](https://arxiv.org/pdf/2303.06213.pdf)
