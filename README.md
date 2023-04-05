@@ -9,8 +9,8 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
-1. [KBS 2023] **Class-homophilic-based data augmentation for improving graph neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S095070512300268X)
 1. [arXiv 2023] **When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!** [[paper]](https://arxiv.org/abs/2303.16458)
+1. [KBS 2023] **Class-homophilic-based data augmentation for improving graph neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S095070512300268X)
 1. [arXiv 2023] **Structural Imbalance Aware Graph Augmentation Learning** [[paper]](https://arxiv.org/pdf/2303.13757.pdf)
 1. [arXiv 2023] **Hybrid Augmented Automated Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2303.15182.pdf)
 1. [arXiv 2023] **Decoupling Graph Neural Network with Contrastive Learning for Fraud Detection** [[paper]](https://linmengsysu.github.io/slides/main.pdf)
