@@ -9,6 +9,12 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [arXiv 2023] **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner** [[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch19)
+1. [arXiv 2023] **Adversarial Hard Negative Generation for Complementary Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2304.04779.pdf)
+1. [INS 2023] **INS-GNN: Improving Graph Imbalance Learning with Self-Supervision** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523005042)
+1. [TNNLS 2023] **Dual Contrastive Learning Network for Graph Clustering** [[paper]](https://ieeexplore.ieee.org/abstract/document/10097557)
+1. [arXiv 2023] **RARE: Robust Masked Graph Autoencoder** [[paper]](https://arxiv.org/pdf/2304.01507.pdf)
+1. [TKDE 2023] **Maximizing Mutual Information Across Feature and Topology Views for Representing Graphs** [[paper]](https://ieeexplore.ieee.org/abstract/document/10093032)
 1. [arXiv 2023] **When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!** [[paper]](https://arxiv.org/abs/2303.16458)
 1. [KBS 2023] **Class-homophilic-based data augmentation for improving graph neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S095070512300268X)
 1. [arXiv 2023] **Structural Imbalance Aware Graph Augmentation Learning** [[paper]](https://arxiv.org/pdf/2303.13757.pdf)
