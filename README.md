@@ -9,6 +9,9 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [AISTAT 2023] **Learning Robust Graph Neural Networks with Limited Supervision** [[paper]](https://proceedings.mlr.press/v206/alchihabi23a/alchihabi23a.pdf)
+1. [TNNLS 2023] **Demystifying and Mitigating Bias for Node Representation Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10103678)
+1. [BICTA 2023] **Graph Contrastive Learning with Intrinsic Augmentations** [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-1549-1_27)
 1. [arXiv 2023] **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner** [[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch19)
 1. [arXiv 2023] **Adversarial Hard Negative Generation for Complementary Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2304.04779.pdf)
 1. [INS 2023] **INS-GNN: Improving Graph Imbalance Learning with Self-Supervision** [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025523005042)
