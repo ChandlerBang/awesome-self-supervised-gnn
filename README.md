@@ -9,7 +9,7 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
-1. [ICASSP 2023] **Contrastive Learning at the Relation and Event Level for Rumor Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/10096567
+1. [ICASSP 2023] **Contrastive Learning at the Relation and Event Level for Rumor Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/10096567)
 1. [arXiv 2023] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** [[paper]](https://arxiv.org/pdf/2305.03741.pdf)
 1. [arXiv 2023] **SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2305.04501.pdf)
 1. [arXiv 2023] **CSGCL: Community-Strength-Enhanced Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2305.04658.pdf)
