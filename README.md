@@ -9,6 +9,8 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
  
 ## Year 2023
+1. [ICLR 2023] **Empowering Graph Representation Learning with Test-Time Graph Transformation** [[paper]](https://openreview.net/forum?id=Lnxl5pr018) [[code]](https://github.com/ChandlerBang/GTrans)
+1. [ICLR 2023] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf) [[code]](https://github.com/jumxglhf/ParetoGNN)
 1. [arXiv 2023] **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** [[paper]](https://arxiv.org/pdf/2306.00006.pdf)
 1. [ICASSP 2023] **Contrastive Learning at the Relation and Event Level for Rumor Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/10096567)
 1. [arXiv 2023] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** [[paper]](https://arxiv.org/pdf/2305.03741.pdf)
