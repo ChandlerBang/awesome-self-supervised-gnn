@@ -11,6 +11,7 @@
 ## Year 2023
 1. [ICLR 2023] **Empowering Graph Representation Learning with Test-Time Graph Transformation** [[paper]](https://openreview.net/forum?id=Lnxl5pr018) [[code]](https://github.com/ChandlerBang/GTrans)
 1. [ICLR 2023] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf) [[code]](https://github.com/jumxglhf/ParetoGNN)
+1. [AAAI 2023] **Eliciting Structural and Semantic Global Knowledge in Unsupervised Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2202.08480) [[code]](https://github.com/kaize0409/S-3-CL)
 1. [arXiv 2023] **Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection** [[paper]](https://arxiv.org/pdf/2306.00006.pdf)
 1. [ICASSP 2023] **Contrastive Learning at the Relation and Event Level for Rumor Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/10096567)
 1. [arXiv 2023] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** [[paper]](https://arxiv.org/pdf/2305.03741.pdf)
@@ -273,7 +274,6 @@
  53. [Bioinformatics 2022] **Supervised Graph Co-contrastive Learning for Drug-Target Interaction Prediction** [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac164/6551245?login=true)
  54. [arXiv 2022] **Supervised Contrastive Learning with Structure Inference for Graph Classification** [[paper]](https://arxiv.org/pdf/2203.07691)
  55. [arXiv 2022] **Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision** [[paper]](https://arxiv.org/pdf/2203.03762.pdf)
- 56. [arXiv 2022] **Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning** [[paper]](https://arxiv.org/pdf/2202.08480)
  57. [arXiv 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** [[paper]](https://yangliang.github.io/pdf/tnnls22.pdf)
  58. [arXiv 2022] **Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast** [[paper]](https://arxiv.org/pdf/2202.09346.pdf)
  59. [arXiv 2022] **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** [[paper]](https://arxiv.org/pdf/2202.08523.pdf)[[code]](https://github.com/weiwei1206/CML.git)
