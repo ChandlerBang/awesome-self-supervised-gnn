@@ -7,7 +7,10 @@
  We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
  
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
- 
+
+## Year 2024
+1. [ICASSP 2024] **Contrastive Deep Nonnegative Matrix Factorization for Community Detection** [[paper]](https://arxiv.org/abs/2311.02357) [[code]](https://github.com/6lyc/CDNMF)
+   
 ## Year 2023
 1. [ICLR 2023] **Empowering Graph Representation Learning with Test-Time Graph Transformation** [[paper]](https://openreview.net/forum?id=Lnxl5pr018) [[code]](https://github.com/ChandlerBang/GTrans)
 1. [ICLR 2023] **Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization** [[paper]](https://arxiv.org/pdf/2210.02016.pdf) [[code]](https://github.com/jumxglhf/ParetoGNN)
